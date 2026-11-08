@@ -1,0 +1,20 @@
+{
+  "vocabulary_records": 7810,
+  "records_with_primary_region_link": 7809,
+  "records_without_primary_region_link": 1,
+  "manual_audit_records_validated": 87,
+  "manual_audit_mismatches": 0,
+  "old_region_tag_count_distribution": {
+    "0": 1,
+    "1": 619,
+    "2": 1077,
+    "3": 2164,
+    "4": 2455,
+    "5": 1119,
+    "6": 312,
+    "7": 58,
+    "8": 5
+  },
+  "mode": "apply",
+  "rule": "Use the first /vung-mien/ link in the stored page-link order; validated against the refreshed manual audit pages."
+}

@@ -1,0 +1,16 @@
+{
+  "source": "QIPEDC",
+  "start_url": "https://qipedc.moet.gov.vn/dictionary",
+  "pages_fetched": 1,
+  "script_assets": [],
+  "warnings": [],
+  "max_pages_requested": 1,
+  "records": 0,
+  "unique_gloss_strings_casefold": 0,
+  "unique_media_ids": 0,
+  "records_with_thumbnail": 0,
+  "records_with_observed_video_url": 0,
+  "records_with_inferred_video_candidate": 0,
+  "training_eligible": 0,
+  "note": "Metadata-only crawl. Video URLs inferred from thumbnail IDs are candidates, not verified. Rights, access and labels require manual review."
+}

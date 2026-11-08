@@ -1,0 +1,70 @@
+﻿gloss,TUDIEN_sample_id,QIPEDC_sample_id,TUDIEN_region,QIPEDC_region,QIPEDC_marker_detected,full_phash_mean_distance,center_phash_mean_distance,exact_sha256_match,phash_category
+gạo,VSL-675592093,QIPEDC:W01384B,Miền Bắc,Miền Bắc,True,2.1666666666666665,0.0,False,strong_visual_match
+chúc mừng,VSL-676619847,QIPEDC:W00663N,Miền Nam,Miền Nam,True,1.6666666666666667,0.3333333333333333,False,strong_visual_match
+buổi trưa,VSL-675476624,QIPEDC:W00370B,Miền Bắc,Miền Bắc,True,1.3333333333333333,0.6666666666666666,False,strong_visual_match
+buổi trưa,VSL-675476542,QIPEDC:W00370T,Miền Trung,Miền Trung,True,1.6666666666666667,0.6666666666666666,False,strong_visual_match
+bánh cuốn,VSL-674539144,QIPEDC:W00129T,Miền Trung,Miền Trung,True,1.5,0.6666666666666666,False,strong_visual_match
+bánh mì,VSL-674716772,QIPEDC:W00137B,Miền Bắc,Miền Bắc,True,1.0,0.6666666666666666,False,strong_visual_match
+chia,VSL-675959560,QIPEDC:W00575N,Miền Nam,Miền Nam,True,1.1666666666666667,0.6666666666666666,False,strong_visual_match
+chuẩn bị,VSL-676619915,QIPEDC:W00662N,Miền Nam,Miền Nam,True,2.6666666666666665,0.6666666666666666,False,strong_visual_match
+cháu ngoại,VSL-675889163,QIPEDC:W00496T,Miền Trung,Miền Trung,True,1.0,0.6666666666666666,False,strong_visual_match
+chúc mừng,VSL-676619869,QIPEDC:W00663B,Miền Bắc,Miền Bắc,True,1.6666666666666667,0.6666666666666666,False,strong_visual_match
+chúc mừng,VSL-676619829,QIPEDC:W00663T,Miền Trung,Miền Trung,True,1.6666666666666667,0.6666666666666666,False,strong_visual_match
+con chuột,VSL-676640958,QIPEDC:W00742T,Miền Trung,Miền Trung,True,1.6666666666666667,0.6666666666666666,False,strong_visual_match
+màu nâu,VSL-675851484,QIPEDC:W02137B,Miền Bắc,Miền Bắc,True,2.0,0.6666666666666666,False,strong_visual_match
+con người,VSL-669870836,QIPEDC:W00777N,Miền Nam,Miền Nam,True,0.8333333333333334,0.8333333333333334,False,strong_visual_match
+giấy,VSL-670835872,QIPEDC:W01470T,Miền Trung,Miền Trung,True,2.0,0.8333333333333334,False,strong_visual_match
+bạn,VSL-674528617,QIPEDC:W00110N,Miền Nam,Miền Nam,True,1.5,1.0,False,strong_visual_match
+bảng đen,VSL-674538897,QIPEDC:W00121N,Miền Nam,Miền Nam,True,2.6666666666666665,1.0,False,strong_visual_match
+chiếu,VSL-676522710,QIPEDC:W00598B,Miền Bắc,Miền Bắc,True,3.0,1.0,False,strong_visual_match
+cháu nội,VSL-675889024,QIPEDC:W00497T,Miền Trung,Miền Trung,True,1.3333333333333333,1.0,False,strong_visual_match
+con người,VSL-669873062,QIPEDC:W00777T,Miền Trung,Miền Trung,True,1.8333333333333333,1.0,False,strong_visual_match
+con ếch,VSL-676645186,QIPEDC:W00758B,Miền Bắc,Miền Bắc,True,1.6666666666666667,1.0,False,strong_visual_match
+giấy,VSL-670836289,QIPEDC:W01470N,Miền Nam,Miền Nam,True,1.6666666666666667,1.0,False,strong_visual_match
+kém,VSL-675881160,QIPEDC:W01738T,Miền Trung,Miền Trung,True,1.5,1.0,False,strong_visual_match
+từ chối,VSL-663288534,QIPEDC:D0103T,Miền Trung,Miền Trung,True,1.3333333333333333,1.0,False,strong_visual_match
+xem,VSL-664743657,QIPEDC:D0192N,Miền Nam,Miền Nam,True,1.3333333333333333,1.0,False,strong_visual_match
+buổi sáng,VSL-675457119,QIPEDC:W00368T,Miền Trung,Miền Trung,True,2.1666666666666665,1.1666666666666667,False,strong_visual_match
+bạn,VSL-674528579,QIPEDC:W00110T,Miền Trung,Miền Trung,True,1.5,1.1666666666666667,False,strong_visual_match
+bộ đội,VSL-675379044,QIPEDC:W00328N,Miền Nam,Miền Nam,True,1.0,1.1666666666666667,False,strong_visual_match
+đặc biệt,VSL-674951929,QIPEDC:W01122T,Miền Trung,Miền Trung,True,2.0,1.1666666666666667,False,strong_visual_match
+buổi sáng,VSL-675457217,QIPEDC:W00368B,Miền Bắc,Miền Bắc,True,1.8333333333333333,1.3333333333333333,False,strong_visual_match
+buổi sáng,VSL-675457167,QIPEDC:W00368N,Miền Nam,Miền Nam,True,1.3333333333333333,1.3333333333333333,False,strong_visual_match
+buổi trưa,VSL-675476579,QIPEDC:W00370N,Miền Nam,Miền Nam,True,2.333333333333333,1.3333333333333333,False,strong_visual_match
+buổi tối,VSL-675476672,QIPEDC:W00369T,Miền Trung,Miền Trung,True,2.833333333333333,1.3333333333333333,False,strong_visual_match
+bánh cuốn,VSL-674539249,QIPEDC:W00129B,Miền Bắc,Miền Bắc,True,1.3333333333333333,1.3333333333333333,False,strong_visual_match
+bộ đội,VSL-675378985,QIPEDC:W00328T,Miền Trung,Miền Trung,True,1.0,1.3333333333333333,False,strong_visual_match
+chia,VSL-675960570,QIPEDC:W00575T,Miền Trung,Miền Trung,True,2.0,1.3333333333333333,False,strong_visual_match
+chiếu,VSL-676522699,QIPEDC:W00598T,Miền Trung,Miền Trung,True,3.333333333333333,1.3333333333333333,False,strong_visual_match
+chuẩn bị,VSL-676619901,QIPEDC:W00662T,Miền Trung,Miền Trung,True,2.6666666666666665,1.3333333333333333,False,strong_visual_match
+kiểm tra,VSL-675838697,QIPEDC:W01878T,Miền Trung,Miền Trung,True,0.6666666666666666,1.3333333333333333,False,strong_visual_match
+giấy,VSL-670836215,QIPEDC:W01470B,Miền Bắc,Miền Bắc,True,1.5,1.5,False,strong_visual_match
+xem,VSL-664743620,QIPEDC:D0192T,Miền Trung,Miền Trung,True,0.8333333333333334,1.5,False,strong_visual_match
+buổi tối,VSL-675476754,QIPEDC:W00369B,Miền Bắc,Miền Bắc,True,1.3333333333333333,1.6666666666666667,False,strong_visual_match
+buổi tối,VSL-675476708,QIPEDC:W00369N,Miền Nam,Miền Nam,True,1.0,1.6666666666666667,False,strong_visual_match
+bảng đen,VSL-674538937,QIPEDC:W00121B,Miền Bắc,Miền Bắc,True,2.0,1.6666666666666667,False,strong_visual_match
+bảng đen,VSL-674539829,QIPEDC:W00121T,Miền Trung,Miền Trung,True,2.0,1.6666666666666667,False,strong_visual_match
+chuẩn bị,VSL-676619931,QIPEDC:W00662B,Miền Bắc,Miền Bắc,True,2.0,1.6666666666666667,False,strong_visual_match
+cháu nội,VSL-675889061,QIPEDC:W00497N,Miền Nam,Miền Nam,True,1.6666666666666667,1.6666666666666667,False,strong_visual_match
+kiểm tra,VSL-675838659,QIPEDC:W01878N,Miền Nam,Miền Nam,True,1.0,1.6666666666666667,False,strong_visual_match
+kém,VSL-675881087,QIPEDC:W01738B,Miền Bắc,Miền Bắc,True,2.5,1.6666666666666667,False,strong_visual_match
+lá cây,VSL-675840470,QIPEDC:W01912N,Miền Nam,Miền Nam,True,2.0,1.6666666666666667,False,strong_visual_match
+từ chối,VSL-663288500,QIPEDC:D0103B,Miền Bắc,Miền Bắc,True,2.0,1.6666666666666667,False,strong_visual_match
+đặc biệt,VSL-674951844,QIPEDC:W01122N,Miền Nam,Miền Nam,True,2.6666666666666665,1.6666666666666667,False,strong_visual_match
+bánh mì,VSL-674716727,QIPEDC:W00137N,Miền Nam,Miền Nam,True,1.6666666666666667,1.8333333333333333,False,strong_visual_match
+bộ đội,VSL-675379021,QIPEDC:W00328B,Miền Bắc,Miền Bắc,True,1.6666666666666667,1.8333333333333333,False,strong_visual_match
+kém,VSL-675881116,QIPEDC:W01738N,Miền Nam,Miền Nam,True,1.3333333333333333,1.8333333333333333,False,strong_visual_match
+bánh mì,VSL-674716664,QIPEDC:W00137T,Miền Trung,Miền Trung,True,1.3333333333333333,2.0,False,strong_visual_match
+cháu ngoại,VSL-675889206,QIPEDC:W00496N,Miền Nam,Miền Nam,True,2.0,2.0,False,strong_visual_match
+con ếch,VSL-676645126,QIPEDC:W00758T,Miền Trung,Miền Trung,True,1.0,2.0,False,strong_visual_match
+hỏi,VSL-675868915,QIPEDC:W01672N,Miền Nam,Miền Nam,True,0.0,2.0,False,strong_visual_match
+hỏi,VSL-675868958,QIPEDC:W01672T,Miền Trung,Miền Trung,True,0.1666666666666666,2.0,False,strong_visual_match
+lá cây,VSL-675840425,QIPEDC:W01912B,Miền Bắc,Miền Bắc,True,1.6666666666666667,2.0,False,strong_visual_match
+màu nâu,VSL-675886838,QIPEDC:W02137N,Miền Nam,Miền Nam,True,0.6666666666666666,2.0,False,strong_visual_match
+bánh cuốn,VSL-674539199,QIPEDC:W00129N,Miền Nam,Miền Nam,True,1.5,2.333333333333333,False,strong_visual_match
+kiểm tra,VSL-675838638,QIPEDC:W01878B,Miền Bắc,Miền Bắc,True,1.6666666666666667,2.333333333333333,False,strong_visual_match
+từ chối,VSL-663288464,QIPEDC:D0103N,Miền Nam,Miền Nam,True,1.3333333333333333,2.333333333333333,False,strong_visual_match
+con ếch,VSL-676645159,QIPEDC:W00758N,Miền Nam,Miền Nam,True,1.8333333333333333,2.5,False,strong_visual_match
+gạo,VSL-675592148,QIPEDC:W01384N,Miền Nam,Miền Nam,True,1.5,2.6666666666666665,False,strong_visual_match
+gạo,VSL-675592204,QIPEDC:W01384T,Miền Trung,Miền Trung,True,1.5,2.6666666666666665,False,strong_visual_match
+màu nâu,VSL-675886889,QIPEDC:W02137T,Miền Trung,Miền Trung,True,1.5,2.6666666666666665,False,strong_visual_match

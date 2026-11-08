@@ -1,0 +1,20 @@
+{
+  "source_1": {
+    "name": "tudienngonngukyhieu",
+    "records": 7810
+  },
+  "source_2": {
+    "name": "QIPEDC",
+    "records": 4362
+  },
+  "total_records": 12172,
+  "unique_sample_ids": 12172,
+  "records_by_source": {
+    "TUDIEN": 7810,
+    "QIPEDC": 4362
+  },
+  "records_with_video_url": 12172,
+  "records_with_local_media": 0,
+  "records_with_sha256": 0,
+  "duplicate_records_removed": 0
+}

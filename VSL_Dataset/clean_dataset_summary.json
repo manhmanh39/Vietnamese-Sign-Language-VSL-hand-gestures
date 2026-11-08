@@ -1,0 +1,28 @@
+{
+  "source_id": "tudienngonngukyhieu",
+  "vocabulary_sample_rows": 7810,
+  "provisional_exact_gloss_count": 5194,
+  "records_without_gloss": 0,
+  "records_without_vimeo_reference": 0,
+  "duplicate_vimeo_ids_across_records": 0,
+  "provisional_labels_by_video_count": {
+    "0": 0,
+    "1": 3688,
+    "2-5": 1472,
+    "6-10": 34,
+    ">10": 0
+  },
+  "license_status_not_checked": 7810,
+  "training_eligible_samples": 0,
+  "existing_manifest_rows_matched": 7810,
+  "manual_review_rows_preserved": 0,
+  "region_claimed_is_source_metadata_not_signer_geography": true,
+  "normalization": "Unicode NFC, trim/collapse whitespace, case-insensitive exact match only; no fuzzy, synonym, or semantic merging.",
+  "limitations": [
+    "Provisional gloss IDs group only exact normalized source labels and are not reviewed canonical concept IDs.",
+    "Variant IDs and signer IDs require human/video review and are intentionally blank.",
+    "Vimeo URLs are references only; this script does not check playback, download videos, or determine usage rights.",
+    "Category values are preserved as raw candidates because legacy extraction may include navigation or related-page links.",
+    "No samples are marked training-eligible until label, variant, accessibility, and license reviews are complete."
+  ]
+}

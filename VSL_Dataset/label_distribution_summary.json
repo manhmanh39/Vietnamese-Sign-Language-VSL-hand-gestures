@@ -1,0 +1,52 @@
+{
+  "vocabulary_records": 7810,
+  "normalized_gloss_labels": 5194,
+  "unique_vimeo_ids_in_vocabulary": 7810,
+  "vocabulary_records_without_vimeo_id": 0,
+  "vocabulary_records_with_multiple_vimeo_ids": 0,
+  "vimeo_ids_referenced_by_multiple_vocabulary_pages": 0,
+  "label_counts_by_unique_video_bin": {
+    "0": 0,
+    "1": 3688,
+    "2-5": 1472,
+    "6-10": 34,
+    ">10": 0
+  },
+  "screening_candidate_threshold_unique_vimeo_ids": 6,
+  "screening_candidate_label_count": 34,
+  "jsonl_vocabulary_media_occurrences_by_type": {
+    "embedded_reference": 7810,
+    "image": 7810
+  },
+  "jsonl_vocabulary_distinct_media_urls_by_type": {
+    "embedded_reference": 7810,
+    "image": 1
+  },
+  "manifest_rows": 7855,
+  "manifest_rows_by_media_type_and_status": {
+    "embedded_reference:reference_only": 7810,
+    "image:queued": 45
+  },
+  "manifest_unique_vimeo_ids": 7810,
+  "jsonl_manifest_vimeo_id_sets_match": true,
+  "vimeo_ids_only_in_jsonl": [],
+  "vimeo_ids_only_in_manifest": [],
+  "region_tagged_record_counts": {
+    "<unspecified>": 1,
+    "Bình Dương": 1744,
+    "Cần Thơ": 219,
+    "Huế": 300,
+    "Hà Nội": 953,
+    "Hải Phòng": 413,
+    "Lâm Đồng": 634,
+    "Miền Trung": 318,
+    "Thành Phố Hồ Chí Minh": 1336,
+    "Toàn Quốc": 1892
+  },
+  "notes": [
+    "Labels are grouped by NFC-normalized, whitespace-collapsed, case-insensitive exact text after removing the known instructional title prefix; no synonym, fuzzy, or semantic merging is performed.",
+    "A page tagged with multiple regions contributes to each region count, so regional totals overlap.",
+    "At least 6 unique Vimeo IDs is only a manual-screening threshold, not evidence that a label is training-ready.",
+    "A Vimeo ID is an extracted reference, not a check that the video is playable, licensed, or visually valid."
+  ]
+}

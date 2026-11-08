@@ -1,0 +1,43 @@
+{
+  "input_manifests": {
+    "master_manifest.csv": 12172
+  },
+  "records_by_source": {
+    "QIPEDC": {
+      "records": 4362,
+      "video_references": 4362,
+      "local_files": 0
+    },
+    "TUDIEN": {
+      "records": 7810,
+      "video_references": 7810,
+      "local_files": 0
+    }
+  },
+  "records_total": 12172,
+  "local_video_files": 0,
+  "exact_hashes_computed": 0,
+  "phash_records_computed": 0,
+  "ffmpeg_available": false,
+  "ffprobe_available": false,
+  "phash_skipped_reason": "No local video files were mapped from the input manifests.",
+  "cross_source_metadata_pairs_with_matching_evidence": 0,
+  "cross_source_phash_pairs_checked": 0,
+  "phash_pairs_skipped_pair_limit": false,
+  "duplicate_candidate_pairs": 0,
+  "candidate_pairs_by_method": {
+    "sha256_exact": 0,
+    "same_media_url": 0,
+    "visual_candidate": 0,
+    "metadata_candidate": 0
+  },
+  "confirmed_cross_source_exact_duplicate_groups": 0,
+  "same_gloss_alone_used_as_duplicate_evidence": false,
+  "semantic_duplicate_detection": "manual review required; no semantic or pose-based auto-merge is performed",
+  "limitations": [
+    "Metadata similarity and pHash only create candidates; they do not prove duplicate content.",
+    "Exact SHA-256 groups are confirmed byte-identical files.",
+    "Use only local video files that the project is authorized to access and process.",
+    "Candidate pairs do not modify or delete source records. Merge confirmed duplicate_group_id values into the master manifest before rerunning the split planner."
+  ]
+}

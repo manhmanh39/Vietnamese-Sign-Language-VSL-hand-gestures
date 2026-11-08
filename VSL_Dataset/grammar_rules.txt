@@ -1,0 +1,39 @@
+# ===================================================================
+# VIETNAMESE SIGN LANGUAGE (VSL) TO SPOKEN VIETNAMESE GRAMMAR RULES
+# ===================================================================
+# VSL Clause Types:
+S -> GREETING_CLAUSE | DECLARATIVE_CLAUSE | NEGATIVE_CLAUSE | INTERROGATIVE_CLAUSE | DESCRIPTIVE_CLAUSE
+
+# Rule 1: Greetings & Social Formulas
+# VSL: [CHÚC MỪNG] [BUỔI SÁNG] [HONORIFIC] -> 'Chúc mừng buổi sáng [Honorific]!'
+GREETING_CLAUSE -> GREETING TIME_EXPR [PRON_HONORIFIC]
+GREETING -> 'chúc mừng' | 'xin chào'
+
+# Rule 2: Basic SVO Declarative & Temporal Fronting
+# VSL: [TIME]? [SUBJECT] [VERB] [OBJECT]? -> [Vào TIME], [SUBJECT] [VERB] [OBJECT].
+DECLARATIVE_CLAUSE -> [TIME_PHRASE] NP VP [NP]
+
+# Rule 3: Negation Inversion (Critical VSL Grammar Feature)
+# VSL Post-verbal negation: [SUBJECT] [VERB] [KHÔNG/CHƯA] -> [SUBJECT] [không/chưa] [VERB]
+NEGATIVE_CLAUSE -> NP NEG VP [NP] | VP NEG [NP]
+NEG -> 'không' | 'chưa'
+
+# Rule 4: Topic-Comment (OSV -> SVO)
+# VSL fronted topic: [TOPIC_NP] [SUBJECT] [TRANSITIVE_VERB] -> [SUBJECT] [TRANSITIVE_VERB] [TOPIC_NP]
+TOPIC_CLAUSE -> NP_TOPIC NP_SUBJ VP_TRANS
+
+# Rule 5: Interrogative Question Formation
+# VSL end-sentence question marker: [SUBJECT] [VERB] [GÌ/Ở ĐÂU/PHẢI KHÔNG] -> Question with '?'
+INTERROGATIVE_CLAUSE -> NP VP Q_MARKER | NP Q_MARKER
+Q_MARKER -> 'gì' | 'ở đâu' | 'khi nào' | 'ai' | 'phải không' | 'bao nhiêu'
+
+# Rule 6: Adjectival Predication with Intensifier Insertion
+# VSL: [NOUN] [ADJ] -> [NOUN] [rất/là] [ADJ].
+DESCRIPTIVE_CLAUSE -> NP [ADV_DEGREE] ADJ_PHRASE
+ADV_DEGREE -> 'rất' | 'khá' | 'hơi'
+
+# Lexical Categories:
+NP -> [DET] [CLASSIFIER] NOUN [ADJ] | PRON
+VP -> VERB [ADV_FREQ] | [ADV_FREQ] VERB
+TIME_PHRASE -> [PREP_TIME] TIME
+PREP_TIME -> 'vào' | 'trong'

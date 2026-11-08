@@ -1,0 +1,67 @@
+{
+  "test_loss": 3.2471105821671022,
+  "test_top1_acc": 0.06451612903225806,
+  "test_top3_acc": 0.25806451612903225,
+  "sample_predictions": [
+    {
+      "true_gloss": "buổi sáng",
+      "pred_idx": 1,
+      "top1_conf": 0.04495979845523834,
+      "correct": false
+    },
+    {
+      "true_gloss": "bà",
+      "pred_idx": 1,
+      "top1_conf": 0.0634075179696083,
+      "correct": true
+    },
+    {
+      "true_gloss": "bánh mì",
+      "pred_idx": 24,
+      "top1_conf": 0.0529634989798069,
+      "correct": false
+    },
+    {
+      "true_gloss": "bánh mì",
+      "pred_idx": 1,
+      "top1_conf": 0.06427442282438278,
+      "correct": false
+    },
+    {
+      "true_gloss": "chúc mừng",
+      "pred_idx": 24,
+      "top1_conf": 0.05278334394097328,
+      "correct": false
+    },
+    {
+      "true_gloss": "con chuột",
+      "pred_idx": 24,
+      "top1_conf": 0.05300266668200493,
+      "correct": false
+    },
+    {
+      "true_gloss": "con cọp",
+      "pred_idx": 24,
+      "top1_conf": 0.05267693102359772,
+      "correct": false
+    },
+    {
+      "true_gloss": "con muỗi",
+      "pred_idx": 24,
+      "top1_conf": 0.0546083003282547,
+      "correct": false
+    },
+    {
+      "true_gloss": "con nuôi",
+      "pred_idx": 24,
+      "top1_conf": 0.05566937103867531,
+      "correct": false
+    },
+    {
+      "true_gloss": "cửa hàng",
+      "pred_idx": 1,
+      "top1_conf": 0.05576552450656891,
+      "correct": false
+    }
+  ]
+}

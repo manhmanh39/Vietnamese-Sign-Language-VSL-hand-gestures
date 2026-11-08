@@ -1,0 +1,70 @@
+bootstrap.min.js	);i[l]()}else s.interval&&(i.pause(),i.cycle())})},o._dataApiClickHandler=function(e){var i=P.getSelectorFromElement(this);if(i){var s=t(i)[0];if(s&&t(s).hasClass(_)){var a=r({},t(s).data(),t(this).data()),l=this.getAttribute(
+bootstrap.min.js	)}).on(O.FOCUS_BLUR_DATA_API,b,function(t){var e=p(t.target).closest(N)[0];p(e).toggleClass(A,/^focus(in)?$/.test(t.type))}),p.fn[m]=k._jQueryInterface,p.fn[m].Constructor=k,p.fn[m].noConflict=function(){return p.fn[m]=y,k._jQueryInterface},k),j=function(t){var e=
+bootstrap.min.js	)}).on(c.CLICK_DATA_API,T,function(t){t.stopPropagation()}),t.fn[e]=L._jQueryInterface,t.fn[e].Constructor=L,t.fn[e].noConflict=function(){return t.fn[e]=l,L._jQueryInterface},L}(e),M=function(t){var e=
+bootstrap.min.js	+E+T,FOCUS_BLUR_DATA_API:
+bootstrap.min.js	+c.KEYUP_DATA_API,L._clearMenus).on(c.CLICK_DATA_API,E,function(e){e.preventDefault(),e.stopPropagation(),L._jQueryInterface.call(t(this),
+bootstrap.min.js	+h,CLICK_DATA_API:
+bootstrap.min.js	+i,CLICK_DATA_API:
+bootstrap.min.js	+i,LOAD_DATA_API:
+bootstrap.min.js	+n,CLICK_DATA_API:
+bootstrap.min.js	+o+a,KEYDOWN_DATA_API:
+bootstrap.min.js	+o+a,KEYUP_DATA_API:
+bootstrap.min.js	+o,CLICK_DATA_API:
+bootstrap.min.js	,O={CLICK_DATA_API:
+bootstrap.min.js	,get:function(){return a}}]),i}();return t(document).on(h.CLICK_DATA_API,p.DATA_TOGGLE,function(e){
+bootstrap.min.js	,get:function(){return a}}]),o}();return t(document).on(d.CLICK_DATA_API,y.DATA_SLIDE,C._dataApiClickHandler),t(window).on(d.LOAD_DATA_API,function(){t(y.DATA_RIDE).each(function(){var e=t(this);C._jQueryInterface.call(e,e.data())})}),t.fn[e]=C._jQueryInterface,t.fn[e].Constructor=C,t.fn[e].noConflict=function(){return t.fn[e]=o,C._jQueryInterface},C}(e),H=function(t){var e=
+bootstrap.min.js	,get:function(){return a}}]),o}();return t(document).on(h.CLICK_DATA_API,g.DATA_TOGGLE,function(e){var i,s=this,o=P.getSelectorFromElement(this);o&&(i=t(o)[0]);var a=t(i).data(n)?
+bootstrap.min.js	,get:function(){return k}}]),a}();return t(document).on(c.KEYDOWN_DATA_API,E,L._dataApiKeydownHandler).on(c.KEYDOWN_DATA_API,y,L._dataApiKeydownHandler).on(c.CLICK_DATA_API+
+bootstrap.min.js	.data-api
+bootstrap.min.js	}}]),n}();return t(document).on(r.CLICK_DATA_API,g,function(e){e.preventDefault(),v._jQueryInterface.call(t(this),
+bootstrap.min.js	}}]),t}(),o(document).on(u.CLICK_DATA_API,
+bootstrap.min.js	}}]),t}(),p(document).on(O.CLICK_DATA_API,b,function(t){t.preventDefault();var e=t.target;p(e).hasClass(I)||(e=p(e).closest(N)),k._jQueryInterface.call(p(e),
+jquery-3.4.1.min.js	),0<a.length&&k.ajax({url:e,type:i||
+jquery-3.4.1.min.js	).each(function(){k(this).replaceWith(this.childNodes)}),this}}),k.expr.pseudos.hidden=function(e){return!k.expr.pseudos.visible(e)},k.expr.pseudos.visible=function(e){return!!(e.offsetWidth||e.offsetHeight||e.getClientRects().length)},k.ajaxSettings.xhr=function(){try{return new C.XMLHttpRequest}catch(e){}};var Ut={0:200,1223:204},Xt=k.ajaxSettings.xhr();y.cors=!!Xt&&
+jquery-3.4.1.min.js	);try{r.send(i.hasContent&&i.data||null)}catch(e){if(o)throw e}},abort:function(){o&&o()}}}),k.ajaxPrefilter(function(e){e.crossDomain&&(e.contents.script=!1)}),k.ajaxSetup({accepts:{script:
+jquery-3.4.1.min.js	)}),k.ajaxTransport(
+jquery-3.4.1.min.js	)}function zt(e,t){var n,r,i=k.ajaxSettings.flatOptions||{};for(n in t)void 0!==t[n]&&((i[n]?e:r||(r={}))[n]=t[n]);return r&&k.extend(!0,e,r),e}Ft.href=Et.href,k.extend({active:0,lastModified:{},etag:{},ajaxSettings:{url:Et.href,type:
+jquery-3.4.1.min.js	+kt++;return this[e]=!0,e}}),k.ajaxPrefilter(
+jquery-3.4.1.min.js	:function(e){return k.globalEval(e),e}}}),k.ajaxPrefilter(
+jquery-3.4.1.min.js	:k.parseXML},flatOptions:{url:!0,context:!0}},ajaxSetup:function(e,t){return t?zt(zt(e,k.ajaxSettings),t):zt(k.ajaxSettings,e)},ajaxPrefilter:Bt(It),ajaxTransport:Bt(Wt),ajax:function(e,t){
+jquery-3.4.1.min.js	===e.type?404:200,e.type)}),E.head.appendChild(r[0])},abort:function(){i&&i()}}});var Vt,Gt=[],Yt=/(=)\?(?=&|$)|\?\?/;k.ajaxSetup({jsonp:
+jquery-3.4.1.min.js	==typeof e&&(t=e,e=void 0),t=t||{};var c,f,p,n,d,r,h,g,i,o,v=k.ajaxSetup({},t),y=v.context||v,m=v.context&&(y.nodeType||y.jquery)?k(y):k.event,x=k.Deferred(),b=k.Callbacks(
+jquery-3.4.1.min.js	],function(e,i){k[i]=function(e,t,n,r){return m(t)&&(r=r||n,n=t,t=void 0),k.ajax(k.extend({url:e,type:i,dataType:r,data:t,success:n},k.isPlainObject(e)&&e))}}),k._evalUrl=function(e,t){return k.ajax({url:e,type:
+jquery-3.4.1.min.js	ajaxComplete
+jquery-3.4.1.min.js	ajaxError
+jquery-3.4.1.min.js	ajaxSend
+jquery-3.4.1.min.js	ajaxStart
+jquery-3.4.1.min.js	ajaxStop
+jquery-3.4.1.min.js	ajaxSuccess
+jquery-3.4.1.slim.min.js	3.4.1 -ajax,-ajax/jsonp,-ajax/load,-ajax/parseXML,-ajax/script,-ajax/var/location,-ajax/var/nonce,-ajax/var/rquery,-ajax/xhr,-manipulation/_evalUrl,-event/ajax,-effects,-effects/Tween,-effects/animatedSelector
+pagination.min.js	 == typeof a ? (/^https?|file:/.test(a) && (k.ajaxDataType = 
+pagination.min.js	] = g;
+                                var p = b.isFunction(k.ajax) ? k.ajax() : k.ajax,
+                                    q = { type: 
+viewDictionary.js	#video-modal
+viewDictionary.js	) {
+        onSearch();
+    }
+}
+
+function load(group, text) {
+    $.ajax({
+        type: 
+viewDictionary.js	);
+    var video = document.getElementById(
+viewDictionary.js	);
+    video.src = 
+viewDictionary.js	/dictionary/getAll
+viewDictionary.js	;
+    // console.log(1);
+}
+
+function closeModal() {
+    var video = document.getElementById(
+viewDictionary.js	;
+    }
+    name.innerHTML = title;
+    explain.innerHTML = sub;
+    video.src = 
+viewDictionary.js	></video>
+viewDictionary.js	img-dictionary

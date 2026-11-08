@@ -1,0 +1,930 @@
+sample_id,source_id,status,local_path,sha256,duration_sec,error,updated_at
+VSL-669749833,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 669749833: Unable to download webpage: HTTP Error 503: Service Unavailable (caused by <HTTPError 503: Service Unavailable>)
+",2026-11-08T13:01:08
+VSL-661095743,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661095743: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:04:17
+VSL-661095793,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661095793: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:04:18
+VSL-661095823,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661095823: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:04:18
+VSL-661095392,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661095392: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:04:19
+VSL-661095551,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661095551: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:04:20
+VSL-670805509,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 670805509: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:04:20
+VSL-661095771,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661095771: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:04:20
+VSL-670805451,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 670805451: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:04:20
+VSL-661095636,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661095636: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:04:20
+VSL-661095710,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661095710: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:04:20
+VSL-661095528,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661095528: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:04:20
+VSL-661095500,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661095500: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:04:20
+VSL-661095589,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661095589: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:04:20
+VSL-661095685,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661095685: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:04:20
+VSL-674501013,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 674501013: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:04:20
+VSL-661095601,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661095601: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:04:20
+VSL-661099559,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661099559: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+",2026-11-08T13:07:20
+VSL-661100234,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [generic] bao-tin-2341: Unable to download webpage: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) (caused by TransportError(""('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))""))
+",2026-11-08T13:07:33
+VSL-675339031,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [generic] bieu-do-hinh-quat-10886: Unable to download webpage: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) (caused by TransportError(""('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))""))
+",2026-11-08T13:10:47
+VSL-675363296,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [generic] bom-dan-10938: Unable to download webpage: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) (caused by TransportError(""('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))""))
+",2026-11-08T13:12:23
+VSL-675416458,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 675416458: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+",2026-11-08T13:13:21
+VSL-675505722,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [generic] cai-nhip-11291: Unable to download webpage: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) (caused by TransportError(""('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))""))
+",2026-11-08T13:15:51
+VSL-663672597,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [generic] cap-nhiet-do-1650: Unable to download webpage: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) (caused by TransportError(""('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))""))
+",2026-11-08T13:17:51
+VSL-665247609,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [generic] cay-lua-non-1884: Unable to download webpage: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) (caused by TransportError(""('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))""))
+",2026-11-08T13:19:27
+VSL-675899418,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 675899418: Unable to download webpage: HTTPSConnectionPool(host='player.vimeo.com', port=443): Read timed out. (read timeout=30.0) (caused by TransportError(""HTTPSConnectionPool(host='player.vimeo.com', port=443): Read timed out. (read timeout=30.0)""))
+",2026-11-08T13:20:57
+VSL-675875278,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 675875278: Unable to download webpage: HTTPSConnectionPool(host='player.vimeo.com', port=443): Read timed out. (read timeout=30.0) (caused by TransportError(""HTTPSConnectionPool(host='player.vimeo.com', port=443): Read timed out. (read timeout=30.0)""))
+",2026-11-08T13:20:59
+VSL-669899640,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 669899640: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:03
+VSL-666436896,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 666436896: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:03
+VSL-705624551,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 705624551: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:03
+VSL-670492212,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 670492212: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:03
+VSL-666318658,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 666318658: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:03
+VSL-705624760,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 705624760: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:04
+VSL-669901795,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 669901795: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:04
+VSL-670494290,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 670494290: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:04
+VSL-666318602,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 666318602: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:04
+VSL-663691699,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 663691699: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:05
+VSL-669900499,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 669900499: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:05
+VSL-666318694,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 666318694: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:06
+VSL-705624452,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 705624452: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:06
+VSL-670490429,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 670490429: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:06
+VSL-670489234,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 670489234: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:06
+VSL-670491016,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 670491016: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:07
+VSL-670493094,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 670493094: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:07
+VSL-670491560,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 670491560: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:07
+VSL-670493676,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 670493676: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:08
+VSL-666318820,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 666318820: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:19
+VSL-666318848,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 666318848: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:19
+VSL-666318798,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 666318798: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:19
+VSL-670496218,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 670496218: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:19
+VSL-666318741,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 666318741: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:19
+VSL-666318713,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 666318713: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:19
+VSL-670497732,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 670497732: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:19
+VSL-670503177,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 670503177: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:19
+VSL-670496900,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 670496900: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:19
+VSL-670502558,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 670502558: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:19
+VSL-666318766,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 666318766: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:19
+VSL-670495305,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 670495305: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:29:19
+VSL-666320574,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 666320574: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:31:06
+VSL-666320612,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 666320612: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:31:06
+VSL-673852073,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 673852073: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:31:06
+VSL-666320650,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 666320650: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:31:06
+VSL-666320715,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 666320715: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:31:07
+VSL-666320687,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 666320687: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:31:07
+VSL-664617746,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 664617746: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:31:07
+VSL-673852867,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 673852867: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:31:07
+VSL-673851125,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 673851125: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:31:09
+VSL-673457383,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 673457383: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:31:10
+VSL-666320745,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 666320745: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:31:10
+VSL-673852062,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 673852062: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:31:10
+VSL-663287165,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 663287165: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:31:10
+VSL-666320551,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 666320551: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:31:10
+VSL-666320839,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 666320839: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:31:17
+VSL-666320873,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 666320873: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:31:17
+VSL-663287027,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 663287027: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:31:17
+VSL-666320794,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 666320794: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:31:17
+VSL-666320824,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 666320824: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:31:17
+VSL-666320765,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 666320765: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:31:17
+VSL-663258230,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [generic] dong-bang-song-hong-7425: Unable to download webpage: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007) (caused by SSLError('[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)')); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+",2026-11-08T13:39:46
+VSL-663612892,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 663612892: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:40:18
+VSL-674349164,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 674349164: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:40:18
+VSL-663612964,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 663612964: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:40:18
+VSL-666254636,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 666254636: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:40:18
+VSL-663612930,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 663612930: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:40:18
+VSL-663612825,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 663612825: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:40:18
+VSL-675862016,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 675862016: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:40:18
+VSL-663612719,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 663612719: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:40:18
+VSL-666254576,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 666254576: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:40:18
+VSL-675586481,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 675586481: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:40:18
+VSL-663612649,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 663612649: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:40:18
+VSL-663612794,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 663612794: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:40:18
+VSL-663612860,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 663612860: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:40:18
+VSL-667145750,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 667145750: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:40:18
+VSL-675586535,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 675586535: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:40:18
+VSL-666254565,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 666254565: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:40:18
+VSL-663612686,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 663612686: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:40:18
+VSL-663612747,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 663612747: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:40:18
+VSL-661750300,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: unable to download video data: HTTPSConnectionPool(host='skyfire.vimeocdn.com', port=443): Read timed out. (read timeout=30.0)
+",2026-11-08T13:42:46
+VSL-670835991,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 670835991: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:45:01
+VSL-670836116,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 670836116: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:45:02
+VSL-670819826,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 670819826: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:45:02
+VSL-670836050,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 670836050: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:45:02
+VSL-661753339,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661753339: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:45:02
+VSL-661753192,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661753192: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:45:02
+VSL-671856283,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 671856283: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:45:03
+VSL-671856333,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 671856333: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:45:03
+VSL-671856231,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 671856231: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:45:03
+VSL-671856311,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 671856311: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:45:03
+VSL-671856255,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 671856255: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:45:04
+VSL-661753385,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661753385: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:45:04
+VSL-670819876,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 670819876: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:45:04
+VSL-670821483,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 670821483: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:45:04
+VSL-661753424,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661753424: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:45:05
+VSL-661753356,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661753356: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:45:05
+VSL-670835938,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 670835938: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:45:06
+VSL-671856383,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 671856383: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:45:17
+VSL-661753519,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661753519: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:45:17
+VSL-671856368,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 671856368: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:45:17
+VSL-671856208,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 671856208: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:45:17
+VSL-671856403,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 671856403: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:45:17
+VSL-661753562,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661753562: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:45:17
+VSL-661753669,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661753669: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:45:17
+VSL-661753698,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661753698: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:45:17
+VSL-661753618,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661753618: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:45:17
+VSL-671856352,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 671856352: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:45:17
+VSL-661750510,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661750510: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+",2026-11-08T13:47:20
+VSL-664766521,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 664766521: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+",2026-11-08T13:47:20
+VSL-675862798,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 675862798: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+",2026-11-08T13:47:20
+VSL-661750391,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661750391: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+",2026-11-08T13:47:20
+VSL-664197230,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 664197230: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+",2026-11-08T13:47:20
+VSL-661750194,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661750194: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+",2026-11-08T13:47:20
+VSL-661750367,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661750367: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+",2026-11-08T13:47:20
+VSL-705281271,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 705281271: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+",2026-11-08T13:47:21
+VSL-661750437,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661750437: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+",2026-11-08T13:47:21
+VSL-675862749,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 675862749: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+",2026-11-08T13:47:21
+VSL-675862842,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 675862842: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+",2026-11-08T13:47:21
+VSL-705281482,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 705281482: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+",2026-11-08T13:47:21
+VSL-675871137,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 675871137: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:53:02
+VSL-661756810,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661756810: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:53:02
+VSL-661756864,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661756864: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:53:02
+VSL-661756895,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661756895: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:53:02
+VSL-661756785,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661756785: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:53:03
+VSL-675871185,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 675871185: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:53:03
+VSL-675871256,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 675871256: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:53:03
+VSL-661756838,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661756838: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:53:04
+VSL-705630056,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 705630056: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:53:04
+VSL-661756969,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661756969: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:53:04
+VSL-661756699,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661756699: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:53:04
+VSL-664853941,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 664853941: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:53:05
+VSL-663268563,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 663268563: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:53:05
+VSL-664617847,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 664617847: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:53:05
+VSL-664617809,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 664617809: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:53:05
+VSL-664617772,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 664617772: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:53:06
+VSL-661756722,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661756722: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:53:06
+VSL-661756916,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661756916: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:53:06
+VSL-661757001,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [generic] huong-dan-2696: Unable to download webpage: HTTPSConnection(host='tudienngonngukyhieu.com', port=443): Failed to resolve 'tudienngonngukyhieu.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='tudienngonngukyhieu.com', port=443): Failed to resolve 'tudienngonngukyhieu.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:53:19
+VSL-675871370,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [generic] hung-yen-10874: Unable to download webpage: HTTPSConnection(host='tudienngonngukyhieu.com', port=443): Failed to resolve 'tudienngonngukyhieu.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='tudienngonngukyhieu.com', port=443): Failed to resolve 'tudienngonngukyhieu.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:53:19
+VSL-675871305,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [generic] hung-vuong-10866: Unable to download webpage: HTTPSConnection(host='tudienngonngukyhieu.com', port=443): Failed to resolve 'tudienngonngukyhieu.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='tudienngonngukyhieu.com', port=443): Failed to resolve 'tudienngonngukyhieu.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:53:19
+VSL-661756983,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [generic] huong-dan-34: Unable to download webpage: HTTPSConnection(host='tudienngonngukyhieu.com', port=443): Failed to resolve 'tudienngonngukyhieu.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='tudienngonngukyhieu.com', port=443): Failed to resolve 'tudienngonngukyhieu.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:53:19
+VSL-675871511,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [generic] huong-dan-10875: Unable to download webpage: HTTPSConnection(host='tudienngonngukyhieu.com', port=443): Failed to resolve 'tudienngonngukyhieu.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='tudienngonngukyhieu.com', port=443): Failed to resolve 'tudienngonngukyhieu.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:53:19
+VSL-675871453,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [generic] hunggari-nuoc-hunggari-10865: Unable to download webpage: HTTPSConnection(host='tudienngonngukyhieu.com', port=443): Failed to resolve 'tudienngonngukyhieu.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='tudienngonngukyhieu.com', port=443): Failed to resolve 'tudienngonngukyhieu.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:53:19
+VSL-661757035,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [generic] huong-loi-2697: Unable to download webpage: HTTPSConnection(host='tudienngonngukyhieu.com', port=443): Failed to resolve 'tudienngonngukyhieu.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='tudienngonngukyhieu.com', port=443): Failed to resolve 'tudienngonngukyhieu.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:53:19
+VSL-705630262,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [generic] huong-dan-6961: Unable to download webpage: HTTPSConnection(host='tudienngonngukyhieu.com', port=443): Failed to resolve 'tudienngonngukyhieu.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='tudienngonngukyhieu.com', port=443): Failed to resolve 'tudienngonngukyhieu.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:53:19
+VSL-661717676,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [generic] khi-nao-938: Unable to download webpage: HTTPSConnection(host='tudienngonngukyhieu.com', port=443): Failed to resolve 'tudienngonngukyhieu.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='tudienngonngukyhieu.com', port=443): Failed to resolve 'tudienngonngukyhieu.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:55:20
+VSL-675883350,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [generic] khieng-11082: Unable to download webpage: HTTPSConnection(host='tudienngonngukyhieu.com', port=443): Failed to resolve 'tudienngonngukyhieu.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='tudienngonngukyhieu.com', port=443): Failed to resolve 'tudienngonngukyhieu.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:55:21
+VSL-661717709,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [generic] khieng-kieu-2717: Unable to download webpage: HTTPSConnection(host='tudienngonngukyhieu.com', port=443): Failed to resolve 'tudienngonngukyhieu.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='tudienngonngukyhieu.com', port=443): Failed to resolve 'tudienngonngukyhieu.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:55:21
+VSL-675883311,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [generic] khiem-ton-11081: Unable to download webpage: HTTPSConnection(host='tudienngonngukyhieu.com', port=443): Failed to resolve 'tudienngonngukyhieu.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='tudienngonngukyhieu.com', port=443): Failed to resolve 'tudienngonngukyhieu.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:55:21
+VSL-661717693,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [generic] khiem-ton-3994: Unable to download webpage: HTTPSConnection(host='tudienngonngukyhieu.com', port=443): Failed to resolve 'tudienngonngukyhieu.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='tudienngonngukyhieu.com', port=443): Failed to resolve 'tudienngonngukyhieu.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T13:55:21
+VSL-661565817,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661565817: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+",2026-11-08T13:59:19
+VSL-675847289,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 675847289: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+",2026-11-08T14:03:20
+VSL-675847946,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [generic] luoi-11561: Unable to download webpage: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007) (caused by SSLError('[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)')); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+",2026-11-08T14:03:44
+VSL-675848286,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [generic] luoi-hoc-11563: Unable to download webpage: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (caused by TransportError(""('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))""))
+",2026-11-08T14:03:50
+VSL-675848817,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [generic] ma-giong-me-11583: Unable to download webpage: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (caused by TransportError(""('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))""))
+",2026-11-08T14:04:08
+VSL-675848052,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [generic] luoi-cau-11567: Unable to download webpage: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (caused by TransportError(""('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))""))
+",2026-11-08T14:04:09
+VSL-661688485,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [generic] mai-dam-4383: Unable to download webpage: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007) (caused by SSLError('[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)')); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+",2026-11-08T14:04:44
+VSL-664833905,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 664833905: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:00
+VSL-661690264,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661690264: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:01
+VSL-665907928,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 665907928: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:01
+VSL-661690217,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661690217: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:01
+VSL-661690282,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661690282: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:01
+VSL-704855087,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 704855087: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:01
+VSL-665907851,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 665907851: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:01
+VSL-661690292,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661690292: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:02
+VSL-704854668,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 704854668: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:02
+VSL-661690304,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661690304: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:02
+VSL-663278121,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 663278121: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:02
+VSL-661690254,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661690254: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:02
+VSL-663278904,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 663278904: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:03
+VSL-663278429,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 663278429: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:03
+VSL-663277849,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 663277849: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:04
+VSL-661690235,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661690235: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:04
+VSL-661690176,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661690176: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:04
+VSL-663279142,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 663279142: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:05
+VSL-661690388,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661690388: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:21
+VSL-665928317,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 665928317: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:21
+VSL-662908894,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 662908894: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:21
+VSL-665921491,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 665921491: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:21
+VSL-663279597,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 663279597: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:21
+VSL-661690351,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661690351: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:21
+VSL-661690461,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661690461: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:21
+VSL-661690376,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661690376: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:21
+VSL-662908430,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 662908430: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:21
+VSL-662908024,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 662908024: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:21
+VSL-661690332,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661690332: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:21
+VSL-661690343,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661690343: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:21
+VSL-663279389,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 663279389: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:21
+VSL-661690371,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661690371: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:21
+VSL-661690355,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661690355: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:21
+VSL-661690314,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661690314: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:21
+VSL-661690447,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661690447: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:21
+VSL-661690323,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661690323: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:07:21
+VSL-705635780,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 705635780: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:00
+VSL-705636173,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 705636173: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:00
+VSL-661717932,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661717932: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:00
+VSL-661717995,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661717995: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:00
+VSL-661718027,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661718027: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:00
+VSL-661718025,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661718025: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:00
+VSL-661718013,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661718013: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:01
+VSL-661718072,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661718072: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:01
+VSL-661718084,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661718084: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:02
+VSL-661718050,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661718050: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:02
+VSL-661718042,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661718042: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:02
+VSL-661718061,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661718061: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:02
+VSL-661718094,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661718094: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:03
+VSL-661717942,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661717942: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:04
+VSL-667145786,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 667145786: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:04
+VSL-661717962,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661717962: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:04
+VSL-661717980,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661717980: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:04
+VSL-661718105,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661718105: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:16
+VSL-707084409,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 707084409: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:20
+VSL-661718286,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661718286: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:20
+VSL-705636283,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 705636283: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:20
+VSL-661718349,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661718349: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:20
+VSL-661718312,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661718312: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:20
+VSL-661718205,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661718205: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:20
+VSL-661718148,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661718148: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:20
+VSL-705665412,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 705665412: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:20
+VSL-661718165,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661718165: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:20
+VSL-661718137,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661718137: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:20
+VSL-661718371,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661718371: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:20
+VSL-661718187,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661718187: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:20
+VSL-705665738,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 705665738: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:20
+VSL-661718121,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661718121: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:20
+VSL-661718253,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661718253: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:20
+VSL-661718235,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661718235: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:20
+VSL-661718331,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661718331: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:20
+VSL-661718296,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661718296: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:20
+VSL-661718270,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661718270: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:11:20
+VSL-704848353,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 704848353: Unable to download webpage: HTTPSConnectionPool(host='player.vimeo.com', port=443): Read timed out. (read timeout=30.0) (caused by TransportError(""HTTPSConnectionPool(host='player.vimeo.com', port=443): Read timed out. (read timeout=30.0)""))
+",2026-11-08T14:14:11
+VSL-661720666,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661720666: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+",2026-11-08T14:14:20
+VSL-661720646,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661720646: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+",2026-11-08T14:14:20
+VSL-661720686,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661720686: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+",2026-11-08T14:14:21
+VSL-658368496,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 658368496: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:16:59
+VSL-658368585,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 658368585: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:16:59
+VSL-658368524,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 658368524: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:16:59
+VSL-658368598,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 658368598: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:16:59
+VSL-705672798,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 705672798: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:00
+VSL-658368549,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 658368549: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:00
+VSL-658368613,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 658368613: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:00
+VSL-705673287,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 705673287: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:00
+VSL-658368680,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 658368680: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:00
+VSL-658368715,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 658368715: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:01
+VSL-705640933,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 705640933: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:01
+VSL-658368631,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 658368631: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:02
+VSL-658368792,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 658368792: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:02
+VSL-658368812,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 658368812: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:02
+VSL-667187113,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 667187113: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:02
+VSL-658368757,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 658368757: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:02
+VSL-658368857,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 658368857: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:03
+VSL-658368837,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 658368837: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:03
+VSL-667154934,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 667154934: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:04
+VSL-658368887,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 658368887: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:04
+VSL-658369113,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 658369113: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:19
+VSL-704845597,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 704845597: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:19
+VSL-658369180,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 658369180: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:19
+VSL-705641254,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 705641254: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:19
+VSL-665690665,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 665690665: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:19
+VSL-658369058,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 658369058: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:19
+VSL-658369151,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 658369151: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:19
+VSL-705640999,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 705640999: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:19
+VSL-662910926,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 662910926: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:19
+VSL-658369039,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 658369039: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:19
+VSL-658368997,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 658368997: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:19
+VSL-658368959,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 658368959: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:19
+VSL-658368939,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 658368939: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:19
+VSL-705641068,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 705641068: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:19
+VSL-658369216,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 658369216: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:19
+VSL-705641138,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 705641138: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:19
+VSL-662911337,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 662911337: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:19
+VSL-705641216,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 705641216: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:19
+VSL-658368907,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 658368907: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:19
+VSL-658369087,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 658369087: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:17:19
+VSL-661545836,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661545836: Unable to download webpage: HTTPSConnectionPool(host='player.vimeo.com', port=443): Read timed out. (read timeout=30.0) (caused by TransportError(""HTTPSConnectionPool(host='player.vimeo.com', port=443): Read timed out. (read timeout=30.0)""))
+",2026-11-08T14:22:15
+VSL-661549017,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661549017: Unable to download webpage: HTTPSConnectionPool(host='player.vimeo.com', port=443): Read timed out. (read timeout=30.0) (caused by TransportError(""HTTPSConnectionPool(host='player.vimeo.com', port=443): Read timed out. (read timeout=30.0)""))
+",2026-11-08T14:28:01
+VSL-667115993,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 667115993: Unable to download webpage: HTTPSConnectionPool(host='player.vimeo.com', port=443): Read timed out. (read timeout=30.0) (caused by TransportError(""HTTPSConnectionPool(host='player.vimeo.com', port=443): Read timed out. (read timeout=30.0)""))
+",2026-11-08T14:28:01
+VSL-665298044,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 665298044: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:28:19
+VSL-661549340,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661549340: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:28:20
+VSL-675561692,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 675561692: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:28:20
+VSL-661549336,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661549336: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:28:20
+VSL-664629318,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 664629318: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:28:20
+VSL-661549329,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661549329: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:28:20
+VSL-676633810,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 676633810: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:28:20
+VSL-661549354,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661549354: Unable to download webpage: HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution) (caused by TransportError(""HTTPSConnection(host='player.vimeo.com', port=443): Failed to resolve 'player.vimeo.com' ([Errno -3] Temporary failure in name resolution)""))
+",2026-11-08T14:28:20
+VSL-661658146,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661658146: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+",2026-11-08T14:29:20
+VSL-661658112,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 661658112: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+",2026-11-08T14:29:21
+VSL-663006955,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [vimeo] 663006955: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+",2026-11-08T14:29:21
+VSL-658381976,TUDIEN,failed,,,,"yt-dlp failed: Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+ERROR: [generic] xuat-tinh-ngoai-4502: Unable to download webpage: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) (caused by TransportError(""('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))""))
+",2026-11-08T14:33:31
+QIPEDC:D0364,QIPEDC,failed,,,,HTTP Error 502: Proxy Error,2026-11-08T14:35:17
+QIPEDC:D0361,QIPEDC,failed,,,,HTTP Error 502: Proxy Error,2026-11-08T14:35:17
+QIPEDC:D0453,QIPEDC,failed,,,,HTTP Error 502: Proxy Error,2026-11-08T14:35:33
+QIPEDC:W01046,QIPEDC,failed,,,,HTTP Error 502: Proxy Error,2026-11-08T14:38:02
+QIPEDC:W01054,QIPEDC,failed,,,,HTTP Error 502: Proxy Error,2026-11-08T14:38:02
+QIPEDC:W01044,QIPEDC,failed,,,,HTTP Error 502: Proxy Error,2026-11-08T14:38:02
+QIPEDC:W02906,QIPEDC,failed,,,,HTTP Error 502: Proxy Error,2026-11-08T14:41:33
+QIPEDC:W03856,QIPEDC,failed,,,,The read operation timed out,2026-11-08T14:44:16

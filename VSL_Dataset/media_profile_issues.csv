@@ -1,0 +1,1 @@
+sample_id,source_id,media_path,integrity_status,file_exists,file_size_mb,sha256_actual,sha256_expected,sha256_match,duration_sec,expected_duration_sec,width,height,fps,video_codec,audio_codec,format_name,ffprobe_status,decode_status,error,gloss_original,region_claimed,region_source,overlay_region_clean,training_eligibility,duplicate_status,license_status,resolution,megapixels

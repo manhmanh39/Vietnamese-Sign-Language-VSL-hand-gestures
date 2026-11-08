@@ -1,0 +1,60 @@
+{
+  "negation_transformation": {
+    "rule_id": "R_NEG_INVERSION",
+    "name": "Post-Verbal Negation Shift",
+    "taxonomy": "literature_supported",
+    "citation": "Nguyen Thi Hoa (2015), Woodward et al. (2009) on VSL Syntax",
+    "description": "In VSL, negation particles (không, chưa) typically follow the verb. The engine shifts negation to precede the verb in standard Vietnamese.",
+    "pattern": ["VERB", "NEG"],
+    "target": ["NEG", "VERB"]
+  },
+  "interrogative_formatting": {
+    "rule_id": "R_WH_QUESTION",
+    "name": "Question Marker & Punctuation",
+    "taxonomy": "literature_supported",
+    "citation": "Woodward (2000) Non-manual marking and sentence-final WH words in VSL",
+    "description": "Identifies terminal question markers (gì, ở đâu, ai, khi nào, phải không) and produces natural question phrasing with '?'",
+    "markers": ["gì", "ở đâu", "khi nào", "ai", "phải không", "bao nhiêu"]
+  },
+  "greeting_formatting": {
+    "rule_id": "R_GREETING_FORMULA",
+    "name": "Greeting Formula Reordering",
+    "taxonomy": "dictionary_observed",
+    "citation": "Observed in 134 authentic phrase pages in tudienngonngukyhieu.com (/cau/)",
+    "description": "Formats VSL greeting sequence [CHÚC MỪNG] [BUỔI SÁNG] [BÀ] into fluent Vietnamese with exclamation point.",
+    "pattern": ["CHÚC_MỪNG", "TIME_NOUN", "PRONOUN"],
+    "target": "'Chúc mừng' + TIME_NOUN + PRONOUN + '!'"
+  },
+  "social_formula": {
+    "rule_id": "R_SOCIAL_FORMULA",
+    "name": "Thanking Formula Alignment",
+    "taxonomy": "dictionary_observed",
+    "citation": "Observed in VSL conversational corpus",
+    "description": "Formats [CẢM ƠN] + RECIPIENT + [ACTION] into 'Cảm ơn RECIPIENT đã ACTION.'",
+    "pattern": ["CẢM_ƠN", "PRON/NOUN", "VERB"],
+    "target": "'Cảm ơn' + PRON/NOUN + 'đã' + VERB + '.'"
+  },
+  "frequency_adverb": {
+    "rule_id": "R_FREQ_ADVERB",
+    "name": "Frequency Adverb Placement",
+    "taxonomy": "dictionary_observed",
+    "citation": "Observed in VSL corpus data",
+    "description": "Places frequency adverbs (thường xuyên, luôn luôn) before verbal predicate.",
+    "pattern": ["VERB", "ADV_FREQ"],
+    "target": ["ADV_FREQ", "VERB"]
+  },
+  "topic_comment": {
+    "rule_id": "R_TOPIC_COMMENT",
+    "name": "Topic-Comment Retention / Optional Reordering",
+    "taxonomy": "heuristic",
+    "citation": "Calibrated: Vietnamese allows topicalized OSV structures (Bánh mì này tôi thích ăn)",
+    "description": "Maintains topicalized fronting if natural in spoken Vietnamese; avoids forced aggressive reordering."
+  },
+  "adjectival_predication": {
+    "rule_id": "R_ADJ_PREDICATE",
+    "name": "Bare Adjectival Predication",
+    "taxonomy": "heuristic",
+    "citation": "Calibrated: Bare adjective predicates (Con chuột yếu, Màn màu trắng) are natural without forced 'rất'",
+    "description": "Retains bare adjectival predicates without inserting unsolicited degree adverbs unless explicit in glosses."
+  }
+}

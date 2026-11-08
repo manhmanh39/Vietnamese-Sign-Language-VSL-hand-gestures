@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Large dataset raw videos and database binaries (keep manifests & checkpoints)
+VSL_Dataset/media/
+VSL_Dataset/videos/
+VSL_Dataset/top30_downloaded_videos/
+VSL_Dataset/test_download/
+VSL_Dataset/tudien_qipedc_ocr_crops/
+VSL_Dataset/pilot_visual_audit/
+VSL_Dataset/*.sqlite
+VSL_Dataset/*.sqlite3
+VSL_Dataset/*.zip
+VSL_Dataset/vsl_metadata.csv
+VSL_Dataset/vsl_metadata.jsonl
+VSL_Dataset/master_manifest_downloaded.csv
+VSL_Dataset/crawler.log
+VSL_Crawler_Package.zip
+
+# Large model backups (keep sign_model_best.pt and configs)
+VSL_Dataset/checkpoints/*backup*.pt
+VSL_Dataset/checkpoints/sign_model_final.pt
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

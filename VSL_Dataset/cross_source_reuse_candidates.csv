@@ -1,0 +1,544 @@
+﻿gloss,TUDIEN_sample_id,QIPEDC_sample_id,TUDIEN_video_status,QIPEDC_marker_detected,TUDIEN_region,QIPEDC_region,region_match,TUDIEN_marker_frames,TUDIEN_region_frames,full_phash_mean_distance,center_phash_mean_distance,exact_sha256_match,reuse_status
+gạo,VSL-675592093,QIPEDC:W01384B,processed,True,Miền Bắc,Miền Bắc,True,6,6,2.1666666666666665,0.0,False,duplicate_candidate
+chúc mừng,VSL-676619847,QIPEDC:W00663N,processed,True,Miền Nam,Miền Nam,True,6,6,1.6666666666666667,0.3333333333333333,False,duplicate_candidate
+buổi trưa,VSL-675476624,QIPEDC:W00370B,processed,True,Miền Bắc,Miền Bắc,True,6,6,1.3333333333333333,0.6666666666666666,False,duplicate_candidate
+buổi trưa,VSL-675476542,QIPEDC:W00370T,processed,True,Miền Trung,Miền Trung,True,5,5,1.6666666666666667,0.6666666666666666,False,duplicate_candidate
+bánh cuốn,VSL-674539144,QIPEDC:W00129T,processed,True,Miền Trung,Miền Trung,True,6,5,1.5,0.6666666666666666,False,duplicate_candidate
+bánh mì,VSL-674716772,QIPEDC:W00137B,processed,True,Miền Bắc,Miền Bắc,True,6,6,1.0,0.6666666666666666,False,duplicate_candidate
+chia,VSL-675959560,QIPEDC:W00575N,processed,True,Miền Nam,Miền Nam,True,6,6,1.1666666666666667,0.6666666666666666,False,duplicate_candidate
+chuẩn bị,VSL-676619915,QIPEDC:W00662N,processed,True,Miền Nam,Miền Nam,True,6,6,2.6666666666666665,0.6666666666666666,False,duplicate_candidate
+cháu ngoại,VSL-675889163,QIPEDC:W00496T,processed,True,Miền Trung,Miền Trung,True,6,6,1.0,0.6666666666666666,False,duplicate_candidate
+chúc mừng,VSL-676619869,QIPEDC:W00663B,processed,True,Miền Bắc,Miền Bắc,True,6,3,1.6666666666666667,0.6666666666666666,False,duplicate_candidate
+chúc mừng,VSL-676619829,QIPEDC:W00663T,processed,True,Miền Trung,Miền Trung,True,5,6,1.6666666666666667,0.6666666666666666,False,duplicate_candidate
+con chuột,VSL-676640958,QIPEDC:W00742T,processed,True,Miền Trung,Miền Trung,True,4,6,1.6666666666666667,0.6666666666666666,False,duplicate_candidate
+con người,VSL-669863205,QIPEDC:W00777T,processed,True,Miền Bắc,Miền Trung,False,5,6,2.333333333333333,0.6666666666666666,False,review
+hỏi,VSL-675868861,QIPEDC:W01672B,processed,True,Miền Bắc,unknown,False,4,6,2.0,0.6666666666666666,False,review
+màu nâu,VSL-675851484,QIPEDC:W02137B,processed,True,Miền Bắc,Miền Bắc,True,5,6,2.0,0.6666666666666666,False,duplicate_candidate
+con chuột,VSL-676640981,QIPEDC:W00742N,processed,True,Miền Nam,unknown,False,5,6,1.3333333333333333,0.8333333333333334,False,review
+con người,VSL-669870836,QIPEDC:W00777N,processed,True,Miền Nam,Miền Nam,True,6,6,0.8333333333333334,0.8333333333333334,False,duplicate_candidate
+giấy,VSL-670835872,QIPEDC:W01470T,processed,True,Miền Trung,Miền Trung,True,6,6,2.0,0.8333333333333334,False,duplicate_candidate
+bạn,VSL-674528617,QIPEDC:W00110N,processed,True,Miền Nam,Miền Nam,True,6,6,1.5,1.0,False,duplicate_candidate
+bảng đen,VSL-674538897,QIPEDC:W00121N,processed,True,Miền Nam,Miền Nam,True,5,5,2.6666666666666665,1.0,False,duplicate_candidate
+chia,VSL-675959634,QIPEDC:W00575B,processed,True,Miền Bắc,unknown,False,6,6,2.0,1.0,False,review
+chiếu,VSL-676522710,QIPEDC:W00598B,processed,True,Miền Bắc,Miền Bắc,True,6,5,3.0,1.0,False,duplicate_candidate
+chiếu,VSL-676522710,QIPEDC:W00598T,processed,True,Miền Bắc,Miền Trung,False,6,5,3.6666666666666665,1.0,False,review
+cháu nội,VSL-675889024,QIPEDC:W00497T,processed,True,Miền Trung,Miền Trung,True,6,6,1.3333333333333333,1.0,False,duplicate_candidate
+con người,VSL-669863205,QIPEDC:W00777B,processed,True,Miền Bắc,unknown,False,5,6,1.3333333333333333,1.0,False,review
+con người,VSL-669873062,QIPEDC:W00777T,processed,True,Miền Trung,Miền Trung,True,6,6,1.8333333333333333,1.0,False,duplicate_candidate
+con ếch,VSL-676645186,QIPEDC:W00758B,processed,True,Miền Bắc,Miền Bắc,True,6,6,1.6666666666666667,1.0,False,duplicate_candidate
+giấy,VSL-670836289,QIPEDC:W01470N,processed,True,Miền Nam,Miền Nam,True,6,6,1.6666666666666667,1.0,False,duplicate_candidate
+kém,VSL-675881160,QIPEDC:W01738B,processed,True,Miền Trung,Miền Bắc,False,6,6,2.1666666666666665,1.0,False,review
+kém,VSL-675881160,QIPEDC:W01738T,processed,True,Miền Trung,Miền Trung,True,6,6,1.5,1.0,False,duplicate_candidate
+từ chối,VSL-663288534,QIPEDC:D0103T,processed,True,Miền Trung,Miền Trung,True,6,6,1.3333333333333333,1.0,False,duplicate_candidate
+xem,VSL-664743657,QIPEDC:D0192N,processed,True,Miền Nam,Miền Nam,True,6,6,1.3333333333333333,1.0,False,duplicate_candidate
+buổi sáng,VSL-675457119,QIPEDC:W00368T,processed,True,Miền Trung,Miền Trung,True,6,5,2.1666666666666665,1.1666666666666667,False,duplicate_candidate
+bạn,VSL-674528579,QIPEDC:W00110T,processed,True,Miền Trung,Miền Trung,True,6,6,1.5,1.1666666666666667,False,duplicate_candidate
+bộ đội,VSL-675379044,QIPEDC:W00328N,processed,True,Miền Nam,Miền Nam,True,6,6,1.0,1.1666666666666667,False,duplicate_candidate
+giấy,VSL-670836289,QIPEDC:W01470T,processed,True,Miền Nam,Miền Trung,False,6,6,4.166666666666667,1.1666666666666667,False,review
+đặc biệt,VSL-674951929,QIPEDC:W01122T,processed,True,Miền Trung,Miền Trung,True,5,6,2.0,1.1666666666666667,False,duplicate_candidate
+buổi sáng,VSL-675457217,QIPEDC:W00368B,processed,True,Miền Bắc,Miền Bắc,True,5,6,1.8333333333333333,1.3333333333333333,False,duplicate_candidate
+buổi sáng,VSL-675457167,QIPEDC:W00368N,processed,True,Miền Nam,Miền Nam,True,6,5,1.3333333333333333,1.3333333333333333,False,duplicate_candidate
+buổi trưa,VSL-675476579,QIPEDC:W00370N,processed,True,Miền Nam,Miền Nam,True,6,6,2.333333333333333,1.3333333333333333,False,duplicate_candidate
+buổi tối,VSL-675476672,QIPEDC:W00369T,processed,True,Miền Trung,Miền Trung,True,6,4,2.833333333333333,1.3333333333333333,False,duplicate_candidate
+bánh cuốn,VSL-674539249,QIPEDC:W00129B,processed,True,Miền Bắc,Miền Bắc,True,6,6,1.3333333333333333,1.3333333333333333,False,duplicate_candidate
+bộ đội,VSL-675378985,QIPEDC:W00328T,processed,True,Miền Trung,Miền Trung,True,6,6,1.0,1.3333333333333333,False,duplicate_candidate
+chia,VSL-675960570,QIPEDC:W00575T,processed,True,Miền Trung,Miền Trung,True,5,6,2.0,1.3333333333333333,False,duplicate_candidate
+chiếu,VSL-676522717,QIPEDC:W00598,processed,True,unknown,unknown,False,6,0,2.0,1.3333333333333333,False,review
+chiếu,VSL-676522699,QIPEDC:W00598T,processed,True,Miền Trung,Miền Trung,True,5,6,3.333333333333333,1.3333333333333333,False,duplicate_candidate
+chuẩn bị,VSL-676619901,QIPEDC:W00662T,processed,True,Miền Trung,Miền Trung,True,6,6,2.6666666666666665,1.3333333333333333,False,duplicate_candidate
+cháu ngoại,VSL-675889234,QIPEDC:W00496B,processed,True,Miền Bắc,unknown,False,5,6,0.5,1.3333333333333333,False,review
+con người,VSL-669873062,QIPEDC:W00777B,processed,True,Miền Trung,unknown,False,6,6,1.3333333333333333,1.3333333333333333,False,review
+kiểm tra,VSL-675838697,QIPEDC:W01878T,processed,True,Miền Trung,Miền Trung,True,6,6,0.6666666666666666,1.3333333333333333,False,duplicate_candidate
+xem,VSL-664743509,QIPEDC:D0192B,processed,True,Miền Bắc,unknown,False,2,6,1.0,1.3333333333333333,False,review
+con chuột,VSL-676641012,QIPEDC:W00742B,processed,True,Miền Bắc,unknown,False,4,6,2.0,1.5,False,review
+con chuột,VSL-676640981,QIPEDC:W00742T,processed,True,Miền Nam,Miền Trung,False,5,6,2.6666666666666665,1.5,False,review
+giấy,VSL-670836215,QIPEDC:W01470B,processed,True,Miền Bắc,Miền Bắc,True,5,6,1.5,1.5,False,duplicate_candidate
+giấy,VSL-670835872,QIPEDC:W01470N,processed,True,Miền Trung,Miền Nam,False,6,6,3.0,1.5,False,review
+xem,VSL-664743620,QIPEDC:D0192T,processed,True,Miền Trung,Miền Trung,True,5,6,0.8333333333333334,1.5,False,duplicate_candidate
+buổi tối,VSL-675476754,QIPEDC:W00369B,processed,True,Miền Bắc,Miền Bắc,True,4,6,1.3333333333333333,1.6666666666666667,False,duplicate_candidate
+buổi tối,VSL-675476708,QIPEDC:W00369N,processed,True,Miền Nam,Miền Nam,True,6,4,1.0,1.6666666666666667,False,duplicate_candidate
+bánh mì,VSL-674716727,QIPEDC:W00137T,processed,True,Miền Nam,Miền Trung,False,4,4,3.333333333333333,1.6666666666666667,False,review
+bảng đen,VSL-674538937,QIPEDC:W00121B,processed,True,Miền Bắc,Miền Bắc,True,5,5,2.0,1.6666666666666667,False,duplicate_candidate
+bảng đen,VSL-674539829,QIPEDC:W00121T,processed,True,Miền Trung,Miền Trung,True,6,5,2.0,1.6666666666666667,False,duplicate_candidate
+chiếu,VSL-676522699,QIPEDC:W00598B,processed,True,Miền Trung,Miền Bắc,False,5,6,2.6666666666666665,1.6666666666666667,False,review
+chuẩn bị,VSL-676619931,QIPEDC:W00662B,processed,True,Miền Bắc,Miền Bắc,True,6,6,2.0,1.6666666666666667,False,duplicate_candidate
+cháu nội,VSL-675889107,QIPEDC:W00497B,processed,True,Miền Bắc,unknown,False,6,6,1.6666666666666667,1.6666666666666667,False,review
+cháu nội,VSL-675889061,QIPEDC:W00497N,processed,True,Miền Nam,Miền Nam,True,6,6,1.6666666666666667,1.6666666666666667,False,duplicate_candidate
+chúc mừng,VSL-676619847,QIPEDC:W00663T,processed,True,Miền Nam,Miền Trung,False,6,6,2.333333333333333,1.6666666666666667,False,review
+con chuột,VSL-676640958,QIPEDC:W00742N,processed,True,Miền Trung,unknown,False,4,6,1.0,1.6666666666666667,False,review
+dầu ăn,VSL-673926627,QIPEDC:W00993,processed,True,unknown,unknown,False,6,0,3.0,1.6666666666666667,False,review
+kiểm tra,VSL-675838659,QIPEDC:W01878N,processed,True,Miền Nam,Miền Nam,True,5,6,1.0,1.6666666666666667,False,duplicate_candidate
+kém,VSL-675881087,QIPEDC:W01738B,processed,True,Miền Bắc,Miền Bắc,True,6,6,2.5,1.6666666666666667,False,duplicate_candidate
+kém,VSL-675881087,QIPEDC:W01738T,processed,True,Miền Bắc,Miền Trung,False,6,6,1.8333333333333333,1.6666666666666667,False,review
+lá cây,VSL-675840470,QIPEDC:W01912N,processed,True,Miền Nam,Miền Nam,True,6,4,2.0,1.6666666666666667,False,duplicate_candidate
+từ chối,VSL-663288500,QIPEDC:D0103B,processed,True,Miền Bắc,Miền Bắc,True,6,6,2.0,1.6666666666666667,False,duplicate_candidate
+đặc biệt,VSL-674951640,QIPEDC:W01122,processed,True,unknown,unknown,False,6,0,1.5,1.6666666666666667,False,review
+đặc biệt,VSL-674951768,QIPEDC:W01122B,processed,True,Miền Bắc,unknown,False,6,6,1.6666666666666667,1.6666666666666667,False,review
+đặc biệt,VSL-674951844,QIPEDC:W01122N,processed,True,Miền Nam,Miền Nam,True,4,6,2.6666666666666665,1.6666666666666667,False,duplicate_candidate
+bánh mì,VSL-674716727,QIPEDC:W00137N,processed,True,Miền Nam,Miền Nam,True,4,4,1.6666666666666667,1.8333333333333333,False,duplicate_candidate
+bộ đội,VSL-675379021,QIPEDC:W00328B,processed,True,Miền Bắc,Miền Bắc,True,5,6,1.6666666666666667,1.8333333333333333,False,duplicate_candidate
+kém,VSL-675881116,QIPEDC:W01738N,processed,True,Miền Nam,Miền Nam,True,4,6,1.3333333333333333,1.8333333333333333,False,duplicate_candidate
+bánh mì,VSL-674716664,QIPEDC:W00137T,processed,True,Miền Trung,Miền Trung,True,6,5,1.3333333333333333,2.0,False,duplicate_candidate
+chia,VSL-675959560,QIPEDC:W00575T,processed,True,Miền Nam,Miền Trung,False,6,6,2.333333333333333,2.0,False,review
+chuẩn bị,VSL-676619901,QIPEDC:W00662N,processed,True,Miền Trung,Miền Nam,False,6,6,2.0,2.0,False,review
+cháu ngoại,VSL-675889206,QIPEDC:W00496N,processed,True,Miền Nam,Miền Nam,True,6,6,2.0,2.0,False,duplicate_candidate
+chúc mừng,VSL-676619829,QIPEDC:W00663N,processed,True,Miền Trung,Miền Nam,False,5,6,2.0,2.0,False,review
+con ếch,VSL-676645126,QIPEDC:W00758T,processed,True,Miền Trung,Miền Trung,True,6,6,1.0,2.0,False,duplicate_candidate
+hỏi,VSL-675868915,QIPEDC:W01672N,processed,True,Miền Nam,Miền Nam,True,6,6,0.0,2.0,False,duplicate_candidate
+hỏi,VSL-675868958,QIPEDC:W01672T,processed,True,Miền Trung,Miền Trung,True,6,6,0.1666666666666666,2.0,False,duplicate_candidate
+lá cây,VSL-675840425,QIPEDC:W01912B,processed,True,Miền Bắc,Miền Bắc,True,6,6,1.6666666666666667,2.0,False,duplicate_candidate
+màu nâu,VSL-675886838,QIPEDC:W02137N,processed,True,Miền Nam,Miền Nam,True,6,6,0.6666666666666666,2.0,False,duplicate_candidate
+chia,VSL-675960570,QIPEDC:W00575N,processed,True,Miền Trung,Miền Nam,False,5,6,1.5,2.1666666666666665,False,review
+bánh cuốn,VSL-674539199,QIPEDC:W00129N,processed,True,Miền Nam,Miền Nam,True,6,6,1.5,2.333333333333333,False,duplicate_candidate
+chuẩn bị,VSL-676619915,QIPEDC:W00662T,processed,True,Miền Nam,Miền Trung,False,6,6,3.333333333333333,2.333333333333333,False,review
+gạo,VSL-675592204,QIPEDC:W01384N,processed,True,Miền Trung,Miền Nam,False,6,6,1.3333333333333333,2.333333333333333,False,review
+học giỏi,VSL-675868349,QIPEDC:W01656,processed,True,unknown,unknown,False,5,0,1.6666666666666667,2.333333333333333,False,review
+hỏi,VSL-675868958,QIPEDC:W01672N,processed,True,Miền Trung,Miền Nam,False,6,6,0.5,2.333333333333333,False,review
+kiểm tra,VSL-675838638,QIPEDC:W01878B,processed,True,Miền Bắc,Miền Bắc,True,5,6,1.6666666666666667,2.333333333333333,False,duplicate_candidate
+từ chối,VSL-663288464,QIPEDC:D0103N,processed,True,Miền Nam,Miền Nam,True,6,6,1.3333333333333333,2.333333333333333,False,duplicate_candidate
+con ếch,VSL-676645159,QIPEDC:W00758N,processed,True,Miền Nam,Miền Nam,True,4,6,1.8333333333333333,2.5,False,duplicate_candidate
+bảng đen,VSL-674538937,QIPEDC:W00121T,processed,True,Miền Bắc,Miền Trung,False,5,5,1.6666666666666667,2.6666666666666665,False,review
+bảng đen,VSL-674539829,QIPEDC:W00121B,processed,True,Miền Trung,Miền Bắc,False,6,5,2.333333333333333,2.6666666666666665,False,review
+gạo,VSL-675592148,QIPEDC:W01384N,processed,True,Miền Nam,Miền Nam,True,3,5,1.5,2.6666666666666665,False,duplicate_candidate
+gạo,VSL-675592204,QIPEDC:W01384T,processed,True,Miền Trung,Miền Trung,True,6,6,1.5,2.6666666666666665,False,duplicate_candidate
+màu nâu,VSL-675886889,QIPEDC:W02137T,processed,True,Miền Trung,Miền Trung,True,6,6,1.5,2.6666666666666665,False,duplicate_candidate
+buổi tối,VSL-675476708,QIPEDC:W00369T,processed,True,Miền Nam,Miền Trung,False,6,4,4.0,2.833333333333333,False,review
+gạo,VSL-675592148,QIPEDC:W01384T,processed,True,Miền Nam,Miền Trung,False,3,5,2.333333333333333,2.833333333333333,False,review
+xem,VSL-664743620,QIPEDC:D0192N,processed,True,Miền Trung,Miền Nam,False,5,6,1.6666666666666667,2.833333333333333,False,review
+bạn,VSL-674528660,QIPEDC:W00110B,processed,True,Miền Bắc,unknown,False,6,6,3.0,3.0,False,review
+buổi tối,VSL-675476672,QIPEDC:W00369N,processed,True,Miền Trung,Miền Nam,False,6,4,2.1666666666666665,3.1666666666666665,False,review
+kiểm tra,VSL-675838697,QIPEDC:W01878N,processed,True,Miền Trung,Miền Nam,False,6,6,1.5,3.1666666666666665,False,review
+từ chối,VSL-663288464,QIPEDC:D0103T,processed,True,Miền Nam,Miền Trung,False,6,6,3.0,3.1666666666666665,False,review
+xem,VSL-664743657,QIPEDC:D0192T,processed,True,Miền Nam,Miền Trung,False,6,6,1.3333333333333333,3.1666666666666665,False,review
+buổi trưa,VSL-675476542,QIPEDC:W00370B,processed,True,Miền Trung,Miền Bắc,False,5,5,3.5,3.333333333333333,False,review
+hỏi,VSL-675868915,QIPEDC:W01672T,processed,True,Miền Nam,Miền Trung,False,6,6,0.3333333333333333,3.333333333333333,False,review
+đặc biệt,VSL-674951929,QIPEDC:W01122N,processed,True,Miền Trung,Miền Nam,False,5,6,3.333333333333333,3.333333333333333,False,review
+từ chối,VSL-663288534,QIPEDC:D0103N,processed,True,Miền Trung,Miền Nam,False,6,6,2.6666666666666665,3.5,False,review
+đặc biệt,VSL-674951844,QIPEDC:W01122T,processed,True,Miền Nam,Miền Trung,False,4,6,2.6666666666666665,3.5,False,review
+buổi sáng,VSL-675457119,QIPEDC:W00368N,processed,True,Miền Trung,Miền Nam,False,6,5,3.333333333333333,3.6666666666666665,False,review
+bánh cuốn,VSL-674539199,QIPEDC:W00129T,processed,True,Miền Nam,Miền Trung,False,6,6,3.333333333333333,3.6666666666666665,False,review
+bánh cuốn,VSL-674539144,QIPEDC:W00129N,processed,True,Miền Trung,Miền Nam,False,6,5,2.0,3.6666666666666665,False,review
+kiểm tra,VSL-675838659,QIPEDC:W01878T,processed,True,Miền Nam,Miền Trung,False,5,6,3.1666666666666665,3.6666666666666665,False,review
+buổi trưa,VSL-675476624,QIPEDC:W00370T,processed,True,Miền Bắc,Miền Trung,False,6,6,4.333333333333333,3.8333333333333335,False,review
+bạn,VSL-674528617,QIPEDC:W00110T,processed,True,Miền Nam,Miền Trung,False,6,6,3.0,4.0,False,review
+bạn,VSL-674528579,QIPEDC:W00110N,processed,True,Miền Trung,Miền Nam,False,6,6,3.333333333333333,4.0,False,review
+bánh mì,VSL-674716664,QIPEDC:W00137N,processed,True,Miền Trung,Miền Nam,False,6,5,2.333333333333333,4.166666666666667,False,review
+buổi sáng,VSL-675457167,QIPEDC:W00368T,processed,True,Miền Nam,Miền Trung,False,6,5,3.6666666666666665,4.666666666666667,False,review
+xem,VSL-664743509,QIPEDC:D0192N,processed,True,Miền Bắc,Miền Nam,False,2,6,5.166666666666667,4.833333333333333,False,review
+màu nâu,VSL-675886838,QIPEDC:W02137T,processed,True,Miền Nam,Miền Trung,False,6,6,2.6666666666666665,5.0,False,review
+màu nâu,VSL-675886889,QIPEDC:W02137N,processed,True,Miền Trung,Miền Nam,False,6,6,2.1666666666666665,5.166666666666667,False,review
+xem,VSL-664743657,QIPEDC:D0192B,processed,True,Miền Nam,unknown,False,6,6,4.833333333333333,5.166666666666667,False,review
+xem,VSL-664743620,QIPEDC:D0192B,processed,True,Miền Trung,unknown,False,5,6,4.666666666666667,5.166666666666667,False,review
+xem,VSL-664743509,QIPEDC:D0192T,processed,True,Miền Bắc,Miền Trung,False,2,6,4.833333333333333,5.333333333333333,False,review
+cháu ngoại,VSL-675889206,QIPEDC:W00496B,processed,True,Miền Nam,unknown,False,6,6,11.666666666666666,10.5,False,review
+cháu ngoại,VSL-675889234,QIPEDC:W00496N,processed,True,Miền Bắc,Miền Nam,False,5,6,11.666666666666666,10.666666666666666,False,review
+bánh cuốn,VSL-674539249,QIPEDC:W00129N,processed,True,Miền Bắc,Miền Nam,False,6,6,9.666666666666666,11.166666666666666,False,review
+đặc biệt,VSL-674951844,QIPEDC:W01122B,processed,True,Miền Nam,unknown,False,4,6,8.333333333333334,11.166666666666666,False,review
+bảng đen,VSL-674538937,QIPEDC:W00121N,processed,True,Miền Bắc,Miền Nam,False,5,5,10.333333333333334,11.5,False,review
+cháu nội,VSL-675889061,QIPEDC:W00497B,processed,True,Miền Nam,unknown,False,6,6,9.0,11.5,False,review
+bánh cuốn,VSL-674539199,QIPEDC:W00129B,processed,True,Miền Nam,Miền Bắc,False,6,6,10.0,11.666666666666666,False,review
+cháu nội,VSL-675889107,QIPEDC:W00497N,processed,True,Miền Bắc,Miền Nam,False,6,6,9.833333333333334,11.666666666666666,False,review
+màu nâu,VSL-675886838,QIPEDC:W02137B,processed,True,Miền Nam,Miền Bắc,False,6,6,8.333333333333334,11.666666666666666,False,review
+bánh cuốn,VSL-674539144,QIPEDC:W00129B,processed,True,Miền Trung,Miền Bắc,False,6,5,9.333333333333334,11.833333333333334,False,review
+buổi trưa,VSL-675476579,QIPEDC:W00370B,processed,True,Miền Nam,Miền Bắc,False,6,6,10.5,12.0,False,review
+buổi tối,VSL-675476754,QIPEDC:W00369N,processed,True,Miền Bắc,Miền Nam,False,4,6,9.833333333333334,12.0,False,review
+bánh cuốn,VSL-674539249,QIPEDC:W00129T,processed,True,Miền Bắc,Miền Trung,False,6,6,9.0,12.0,False,review
+đặc biệt,VSL-674951929,QIPEDC:W01122B,processed,True,Miền Trung,unknown,False,5,6,8.333333333333334,12.0,False,review
+bảng đen,VSL-674539829,QIPEDC:W00121N,processed,True,Miền Trung,Miền Nam,False,6,5,10.333333333333334,12.166666666666666,False,review
+màu nâu,VSL-675851484,QIPEDC:W02137N,processed,True,Miền Bắc,Miền Nam,False,5,6,8.5,12.166666666666666,False,review
+đặc biệt,VSL-674951768,QIPEDC:W01122T,processed,True,Miền Bắc,Miền Trung,False,6,6,9.333333333333334,12.166666666666666,False,review
+bảng đen,VSL-674538897,QIPEDC:W00121B,processed,True,Miền Nam,Miền Bắc,False,5,5,10.833333333333334,12.333333333333334,False,review
+đặc biệt,VSL-674951768,QIPEDC:W01122N,processed,True,Miền Bắc,Miền Nam,False,6,6,10.5,12.333333333333334,False,review
+buổi trưa,VSL-675476624,QIPEDC:W00370N,processed,True,Miền Bắc,Miền Nam,False,6,6,10.166666666666666,12.5,False,review
+đặc biệt,VSL-674951640,QIPEDC:W01122T,processed,True,unknown,Miền Trung,False,6,0,11.333333333333334,12.666666666666666,False,review
+màu nâu,VSL-675886889,QIPEDC:W02137B,processed,True,Miền Trung,Miền Bắc,False,6,6,8.833333333333334,12.833333333333334,False,review
+buổi tối,VSL-675476754,QIPEDC:W00369T,processed,True,Miền Bắc,Miền Trung,False,4,6,10.5,13.166666666666666,False,review
+bánh mì,VSL-674716772,QIPEDC:W00137T,processed,True,Miền Bắc,Miền Trung,False,6,6,11.0,13.166666666666666,False,review
+bánh mì,VSL-674716664,QIPEDC:W00137B,processed,True,Miền Trung,Miền Bắc,False,6,5,11.5,13.166666666666666,False,review
+màu nâu,VSL-675851484,QIPEDC:W02137T,processed,True,Miền Bắc,Miền Trung,False,5,6,9.0,13.166666666666666,False,review
+đặc biệt,VSL-674951929,QIPEDC:W01122,processed,True,Miền Trung,unknown,False,5,6,13.5,13.166666666666666,False,review
+bánh mì,VSL-674716727,QIPEDC:W00137B,processed,True,Miền Nam,Miền Bắc,False,4,4,11.333333333333334,13.333333333333334,False,review
+buổi trưa,VSL-675476579,QIPEDC:W00370T,processed,True,Miền Nam,Miền Trung,False,6,6,11.5,13.5,False,review
+buổi tối,VSL-675476708,QIPEDC:W00369B,processed,True,Miền Nam,Miền Bắc,False,6,4,11.0,13.5,False,review
+bánh mì,VSL-674716772,QIPEDC:W00137N,processed,True,Miền Bắc,Miền Nam,False,6,6,10.333333333333334,13.5,False,review
+bảng đen,VSL-674538897,QIPEDC:W00121T,processed,True,Miền Nam,Miền Trung,False,5,5,11.166666666666666,13.5,False,review
+đặc biệt,VSL-674951844,QIPEDC:W01122,processed,True,Miền Nam,unknown,False,4,6,13.166666666666666,13.666666666666666,False,review
+buổi trưa,VSL-675476542,QIPEDC:W00370N,processed,True,Miền Trung,Miền Nam,False,5,5,11.166666666666666,13.833333333333334,False,review
+lá cây,VSL-675840470,QIPEDC:W01912B,processed,True,Miền Nam,Miền Bắc,False,6,4,14.833333333333334,14.0,False,review
+đặc biệt,VSL-674951640,QIPEDC:W01122N,processed,True,unknown,Miền Nam,False,6,0,10.666666666666666,14.0,False,review
+buổi tối,VSL-675476672,QIPEDC:W00369B,processed,True,Miền Trung,Miền Bắc,False,6,4,11.166666666666666,14.5,False,review
+từ chối,VSL-663288500,QIPEDC:D0103N,processed,True,Miền Bắc,Miền Nam,False,6,6,14.166666666666666,14.666666666666666,False,review
+hỏi,VSL-675868861,QIPEDC:W01672T,processed,True,Miền Bắc,Miền Trung,False,4,6,9.333333333333334,14.833333333333334,False,review
+lá cây,VSL-675840425,QIPEDC:W01912N,processed,True,Miền Bắc,Miền Nam,False,6,6,14.666666666666666,14.833333333333334,False,review
+từ chối,VSL-663288464,QIPEDC:D0103B,processed,True,Miền Nam,Miền Bắc,False,6,6,13.833333333333334,14.833333333333334,False,review
+hỏi,VSL-675868861,QIPEDC:W01672N,processed,True,Miền Bắc,Miền Nam,False,4,6,9.333333333333334,15.0,False,review
+hỏi,VSL-675868915,QIPEDC:W01672B,processed,True,Miền Nam,unknown,False,6,6,9.166666666666666,15.0,False,review
+hỏi,VSL-675868958,QIPEDC:W01672B,processed,True,Miền Trung,unknown,False,6,6,9.166666666666666,15.0,False,review
+bộ đội,VSL-675379021,QIPEDC:W00328N,processed,True,Miền Bắc,Miền Nam,False,5,6,12.5,15.5,False,review
+buổi sáng,VSL-675457167,QIPEDC:W00368B,processed,True,Miền Nam,Miền Bắc,False,6,5,11.5,15.833333333333334,False,review
+từ chối,VSL-663288534,QIPEDC:D0103B,processed,True,Miền Trung,Miền Bắc,False,6,6,13.166666666666666,15.833333333333334,False,review
+bộ đội,VSL-675379044,QIPEDC:W00328B,processed,True,Miền Nam,Miền Bắc,False,6,6,12.333333333333334,16.0,False,review
+buổi tối,VSL-661122089,QIPEDC:W00369T,processed,False,unknown,Miền Trung,False,0,0,24.0,16.166666666666668,False,no_qipedc_evidence
+từ chối,VSL-663288500,QIPEDC:D0103T,processed,True,Miền Bắc,Miền Trung,False,6,6,12.666666666666666,16.166666666666668,False,review
+buổi tối,VSL-661122089,QIPEDC:W00369N,processed,False,unknown,Miền Nam,False,0,0,21.83333333333333,16.5,False,no_qipedc_evidence
+buổi sáng,VSL-675457217,QIPEDC:W00368N,processed,True,Miền Bắc,Miền Nam,False,5,6,10.833333333333334,16.833333333333332,False,review
+buổi sáng,VSL-675457119,QIPEDC:W00368B,processed,True,Miền Trung,Miền Bắc,False,6,5,12.833333333333334,16.833333333333332,False,review
+chuẩn bị,VSL-676619901,QIPEDC:W00662B,processed,True,Miền Trung,Miền Bắc,False,6,6,14.666666666666666,16.833333333333332,False,review
+chuẩn bị,VSL-676619931,QIPEDC:W00662N,processed,True,Miền Bắc,Miền Nam,False,6,6,14.5,17.5,False,review
+chuẩn bị,VSL-676619915,QIPEDC:W00662B,processed,True,Miền Nam,Miền Bắc,False,6,6,14.833333333333334,17.5,False,review
+buổi tối,VSL-661122089,QIPEDC:W00369B,processed,False,unknown,Miền Bắc,False,0,0,22.83333333333333,17.666666666666668,False,no_qipedc_evidence
+chia,VSL-675959634,QIPEDC:W00575N,processed,True,Miền Bắc,Miền Nam,False,6,6,13.333333333333334,17.666666666666668,False,review
+chuẩn bị,VSL-676619931,QIPEDC:W00662T,processed,True,Miền Bắc,Miền Trung,False,6,6,15.5,17.666666666666668,False,review
+con chuột,VSL-676641012,QIPEDC:W00742T,processed,True,Miền Bắc,Miền Trung,False,4,6,14.333333333333334,17.666666666666668,False,review
+học giỏi,VSL-661754688,QIPEDC:W01656,processed,False,unknown,unknown,False,0,0,20.0,17.666666666666668,False,no_qipedc_evidence
+lá cây,VSL-661565659,QIPEDC:W01912N,processed,False,unknown,Miền Nam,False,0,0,19.5,17.666666666666668,False,no_qipedc_evidence
+đặc biệt,VSL-674951640,QIPEDC:W01122B,processed,True,unknown,unknown,False,6,0,16.166666666666668,17.666666666666668,False,review
+buổi sáng,VSL-675457217,QIPEDC:W00368T,processed,True,Miền Bắc,Miền Trung,False,5,6,11.0,17.833333333333332,False,review
+bộ đội,VSL-675379044,QIPEDC:W00328T,processed,True,Miền Nam,Miền Trung,False,6,6,16.5,17.833333333333332,False,review
+giấy,VSL-670836215,QIPEDC:W01470N,processed,True,Miền Bắc,Miền Nam,False,5,6,10.166666666666666,17.833333333333332,False,review
+đặc biệt,VSL-674951768,QIPEDC:W01122,processed,True,Miền Bắc,unknown,False,6,6,16.5,17.833333333333332,False,review
+con chuột,VSL-676641012,QIPEDC:W00742N,processed,True,Miền Bắc,unknown,False,4,6,14.0,18.0,False,review
+con chuột,VSL-676640958,QIPEDC:W00742B,processed,True,Miền Trung,unknown,False,4,6,13.5,18.0,False,review
+giấy,VSL-670836215,QIPEDC:W01470T,processed,True,Miền Bắc,Miền Trung,False,5,6,10.666666666666666,18.166666666666668,False,review
+tò mò,VSL-661548563,QIPEDC:W03467B,processed,False,unknown,Miền Bắc,False,0,0,25.166666666666668,18.166666666666668,False,no_qipedc_evidence
+tò mò,VSL-661548563,QIPEDC:W03467T,processed,False,unknown,Miền Trung,False,0,0,24.5,18.166666666666668,False,no_qipedc_evidence
+bộ đội,VSL-675378985,QIPEDC:W00328N,processed,True,Miền Trung,Miền Nam,False,6,6,16.666666666666668,18.33333333333333,False,review
+chia,VSL-675959560,QIPEDC:W00575B,processed,True,Miền Nam,unknown,False,6,6,14.833333333333334,18.33333333333333,False,review
+cháu ngoại,VSL-675889163,QIPEDC:W00496B,processed,True,Miền Trung,unknown,False,6,6,13.666666666666666,18.5,False,review
+con chuột,VSL-676640981,QIPEDC:W00742B,processed,True,Miền Nam,unknown,False,5,6,14.0,18.5,False,review
+con chuột,VSL-663692272,QIPEDC:W00742B,processed,False,unknown,unknown,False,0,0,17.333333333333332,18.5,False,no_qipedc_evidence
+lá cây,VSL-661565659,QIPEDC:W01912B,processed,False,unknown,Miền Bắc,False,0,0,18.666666666666668,18.5,False,no_qipedc_evidence
+giấy,VSL-670836289,QIPEDC:W01470B,processed,True,Miền Nam,Miền Bắc,False,6,6,10.333333333333334,18.666666666666668,False,review
+chia,VSL-675959634,QIPEDC:W00575T,processed,True,Miền Bắc,Miền Trung,False,6,6,14.5,19.0,False,review
+cháu ngoại,VSL-675889234,QIPEDC:W00496T,processed,True,Miền Bắc,Miền Trung,False,5,6,13.166666666666666,19.0,False,review
+cháu nội,VSL-675889107,QIPEDC:W00497T,processed,True,Miền Bắc,Miền Trung,False,6,6,12.0,19.166666666666668,False,review
+chia,VSL-675960570,QIPEDC:W00575B,processed,True,Miền Trung,unknown,False,5,6,15.0,19.33333333333333,False,review
+chiếu,VSL-663671908,QIPEDC:W00598,processed,False,unknown,unknown,False,0,0,22.666666666666668,19.33333333333333,False,no_qipedc_evidence
+giấy,VSL-670835872,QIPEDC:W01470B,processed,True,Miền Trung,Miền Bắc,False,6,6,10.333333333333334,19.33333333333333,False,review
+cháu nội,VSL-675889061,QIPEDC:W00497T,processed,True,Miền Nam,Miền Trung,False,6,6,14.5,19.5,False,review
+kém,VSL-675881116,QIPEDC:W01738B,processed,True,Miền Nam,Miền Bắc,False,4,6,14.333333333333334,19.5,False,review
+kém,VSL-675881116,QIPEDC:W01738T,processed,True,Miền Nam,Miền Trung,False,4,6,15.5,19.5,False,review
+con ếch,VSL-663693696,QIPEDC:W00758T,processed,False,unknown,Miền Trung,False,0,0,23.666666666666668,19.666666666666668,False,no_qipedc_evidence
+tò mò,VSL-661548513,QIPEDC:W03467T,processed,False,unknown,Miền Trung,False,0,0,22.83333333333333,19.666666666666668,False,no_qipedc_evidence
+cháu ngoại,VSL-675889206,QIPEDC:W00496T,processed,True,Miền Nam,Miền Trung,False,6,6,15.166666666666666,19.83333333333333,False,review
+con chuột,VSL-663692272,QIPEDC:W00742T,processed,False,unknown,Miền Trung,False,0,0,19.666666666666668,19.83333333333333,False,no_qipedc_evidence
+kém,VSL-675881087,QIPEDC:W01738N,processed,True,Miền Bắc,Miền Nam,False,6,6,15.0,19.83333333333333,False,review
+bảng đen,VSL-661098024,QIPEDC:W00121N,processed,False,unknown,Miền Nam,False,0,0,17.5,20.0,False,no_qipedc_evidence
+con người,VSL-669870836,QIPEDC:W00777T,processed,True,Miền Nam,Miền Trung,False,6,6,14.5,20.0,False,review
+màu nâu,VSL-661689375,QIPEDC:W02137B,processed,False,unknown,Miền Bắc,False,0,0,19.666666666666668,20.0,False,no_qipedc_evidence
+con người,VSL-669870836,QIPEDC:W00777B,processed,True,Miền Nam,unknown,False,6,6,13.5,20.166666666666668,False,review
+kiểm tra,VSL-675838659,QIPEDC:W01878B,processed,True,Miền Nam,Miền Bắc,False,5,6,15.333333333333334,20.166666666666668,False,review
+tò mò,VSL-661548520,QIPEDC:W03467T,processed,False,unknown,Miền Trung,False,0,0,23.166666666666668,20.166666666666668,False,no_qipedc_evidence
+buổi sáng,VSL-661112993,QIPEDC:W00368B,processed,False,unknown,Miền Bắc,False,0,0,20.5,20.33333333333333,False,no_qipedc_evidence
+bộ đội,VSL-675378985,QIPEDC:W00328B,processed,True,Miền Trung,Miền Bắc,False,6,6,12.666666666666666,20.33333333333333,False,review
+cháu nội,VSL-675889024,QIPEDC:W00497B,processed,True,Miền Trung,unknown,False,6,6,10.833333333333334,20.33333333333333,False,review
+con chuột,VSL-663692272,QIPEDC:W00742N,processed,False,unknown,unknown,False,0,0,19.33333333333333,20.33333333333333,False,no_qipedc_evidence
+kém,VSL-675881160,QIPEDC:W01738N,processed,True,Miền Trung,Miền Nam,False,6,6,15.833333333333334,20.33333333333333,False,review
+cháu ngoại,VSL-675889163,QIPEDC:W00496N,processed,True,Miền Trung,Miền Nam,False,6,6,14.666666666666666,20.5,False,review
+con người,VSL-669863205,QIPEDC:W00777N,processed,True,Miền Bắc,Miền Nam,False,5,6,13.666666666666666,20.5,False,review
+kiểm tra,VSL-675838638,QIPEDC:W01878N,processed,True,Miền Bắc,Miền Nam,False,5,6,15.666666666666666,20.5,False,review
+tò mò,VSL-661548520,QIPEDC:W03467B,processed,False,unknown,Miền Bắc,False,0,0,23.166666666666668,20.5,False,no_qipedc_evidence
+buổi trưa,VSL-661122135,QIPEDC:W00370N,processed,False,unknown,Miền Nam,False,0,0,18.166666666666668,20.666666666666668,False,no_qipedc_evidence
+bánh cuốn,VSL-661098625,QIPEDC:W00129B,processed,False,unknown,Miền Bắc,False,0,0,19.166666666666668,20.666666666666668,False,no_qipedc_evidence
+con người,VSL-669873062,QIPEDC:W00777N,processed,True,Miền Trung,Miền Nam,False,6,6,13.666666666666666,20.666666666666668,False,review
+học giỏi,VSL-661754703,QIPEDC:W01656,processed,False,unknown,unknown,False,0,0,18.0,20.666666666666668,False,no_qipedc_evidence
+xem,VSL-658383859,QIPEDC:D0192B,processed,False,unknown,unknown,False,0,0,19.33333333333333,20.666666666666668,False,no_qipedc_evidence
+buổi sáng,VSL-661112993,QIPEDC:W00368T,processed,False,unknown,Miền Trung,False,0,0,20.166666666666668,20.83333333333333,False,no_qipedc_evidence
+bánh cuốn,VSL-661098625,QIPEDC:W00129T,processed,False,unknown,Miền Trung,False,0,0,17.666666666666668,20.83333333333333,False,no_qipedc_evidence
+chuẩn bị,VSL-663684083,QIPEDC:W00662B,processed,False,unknown,Miền Bắc,False,0,0,20.5,20.83333333333333,False,no_qipedc_evidence
+cháu nội,VSL-675889024,QIPEDC:W00497N,processed,True,Miền Trung,Miền Nam,False,6,6,14.333333333333334,20.83333333333333,False,review
+con người,VSL-663694988,QIPEDC:W00777N,processed,False,unknown,Miền Nam,False,0,0,21.5,20.83333333333333,False,no_qipedc_evidence
+kiểm tra,VSL-661719177,QIPEDC:W01878B,processed,False,unknown,Miền Bắc,False,0,0,19.83333333333333,20.83333333333333,False,no_qipedc_evidence
+đặc biệt,VSL-662220762,QIPEDC:W01122,processed,False,unknown,unknown,False,0,0,25.33333333333333,20.83333333333333,False,no_qipedc_evidence
+bộ đội,VSL-675379021,QIPEDC:W00328T,processed,True,Miền Bắc,Miền Trung,False,5,6,12.833333333333334,21.0,False,review
+tò mò,VSL-661548513,QIPEDC:W03467B,processed,False,unknown,Miền Bắc,False,0,0,23.83333333333333,21.0,False,no_qipedc_evidence
+từ chối,VSL-661657946,QIPEDC:D0103B,processed,False,unknown,Miền Bắc,False,0,0,24.5,21.0,False,no_qipedc_evidence
+kiểm tra,VSL-675838697,QIPEDC:W01878B,processed,True,Miền Trung,Miền Bắc,False,6,6,16.0,21.166666666666668,False,review
+kiểm tra,VSL-661719163,QIPEDC:W01878T,processed,False,unknown,Miền Trung,False,0,0,18.83333333333333,21.166666666666668,False,no_qipedc_evidence
+bánh cuốn,VSL-661098625,QIPEDC:W00129N,processed,False,unknown,Miền Nam,False,0,0,18.166666666666668,21.33333333333333,False,no_qipedc_evidence
+bánh cuốn,VSL-661098666,QIPEDC:W00129N,processed,False,unknown,Miền Nam,False,0,0,22.33333333333333,21.33333333333333,False,no_qipedc_evidence
+con người,VSL-663694940,QIPEDC:W00777N,processed,False,unknown,Miền Nam,False,0,0,22.666666666666668,21.33333333333333,False,no_qipedc_evidence
+bảng đen,VSL-661098024,QIPEDC:W00121B,processed,False,unknown,Miền Bắc,False,0,0,22.5,21.5,False,no_qipedc_evidence
+chúc mừng,VSL-663684318,QIPEDC:W00663B,processed,False,unknown,Miền Bắc,False,0,0,21.83333333333333,21.5,False,no_qipedc_evidence
+kiểm tra,VSL-675838638,QIPEDC:W01878T,processed,True,Miền Bắc,Miền Trung,False,5,6,16.0,21.5,False,review
+kiểm tra,VSL-661719163,QIPEDC:W01878N,processed,False,unknown,Miền Nam,False,0,0,19.0,21.5,False,no_qipedc_evidence
+chuẩn bị,VSL-663684137,QIPEDC:W00662B,processed,False,unknown,Miền Bắc,False,0,0,23.83333333333333,21.666666666666668,False,no_qipedc_evidence
+con ếch,VSL-676645186,QIPEDC:W00758T,processed,True,Miền Bắc,Miền Trung,False,6,6,14.333333333333334,21.666666666666668,False,review
+dầu ăn,VSL-662226777,QIPEDC:W00993,processed,False,unknown,unknown,False,0,0,20.666666666666668,21.666666666666668,False,no_qipedc_evidence
+kém,VSL-661716682,QIPEDC:W01738B,processed,False,unknown,Miền Bắc,False,0,0,22.83333333333333,21.666666666666668,False,no_qipedc_evidence
+kém,VSL-661716682,QIPEDC:W01738T,processed,False,unknown,Miền Trung,False,0,0,22.666666666666668,21.666666666666668,False,no_qipedc_evidence
+buổi tối,VSL-661113063,QIPEDC:W00369T,processed,False,unknown,Miền Trung,False,0,0,21.166666666666668,21.83333333333333,False,no_qipedc_evidence
+bánh cuốn,VSL-661098666,QIPEDC:W00129B,processed,False,unknown,Miền Bắc,False,0,0,23.5,21.83333333333333,False,no_qipedc_evidence
+bộ đội,VSL-661110741,QIPEDC:W00328B,processed,False,unknown,Miền Bắc,False,0,0,25.666666666666668,21.83333333333333,False,no_qipedc_evidence
+gạo,VSL-661750925,QIPEDC:W01384T,processed,False,unknown,Miền Trung,False,0,0,22.33333333333333,21.83333333333333,False,no_qipedc_evidence
+đặc biệt,VSL-662220762,QIPEDC:W01122T,processed,False,unknown,Miền Trung,False,0,0,27.0,21.83333333333333,False,no_qipedc_evidence
+gạo,VSL-661750925,QIPEDC:W01384N,processed,False,unknown,Miền Nam,False,0,0,22.83333333333333,22.0,False,no_qipedc_evidence
+kiểm tra,VSL-661719177,QIPEDC:W01878N,processed,False,unknown,Miền Nam,False,0,0,22.33333333333333,22.0,False,no_qipedc_evidence
+tò mò,VSL-661548557,QIPEDC:W03467T,processed,False,unknown,Miền Trung,False,0,0,23.666666666666668,22.0,False,no_qipedc_evidence
+bảng đen,VSL-661098024,QIPEDC:W00121T,processed,False,unknown,Miền Trung,False,0,0,22.166666666666668,22.166666666666668,False,no_qipedc_evidence
+chiếu,VSL-676522717,QIPEDC:W00598B,processed,True,unknown,Miền Bắc,False,6,0,15.5,22.166666666666668,False,review
+chuẩn bị,VSL-663684167,QIPEDC:W00662B,processed,False,unknown,Miền Bắc,False,0,0,27.5,22.166666666666668,False,no_qipedc_evidence
+chúc mừng,VSL-676619847,QIPEDC:W00663B,processed,True,Miền Nam,Miền Bắc,False,6,6,14.5,22.166666666666668,False,review
+con ếch,VSL-676645126,QIPEDC:W00758B,processed,True,Miền Trung,Miền Bắc,False,6,6,15.666666666666666,22.166666666666668,False,review
+kém,VSL-661716702,QIPEDC:W01738B,processed,False,unknown,Miền Bắc,False,0,0,20.33333333333333,22.166666666666668,False,no_qipedc_evidence
+kém,VSL-661716702,QIPEDC:W01738T,processed,False,unknown,Miền Trung,False,0,0,21.0,22.166666666666668,False,no_qipedc_evidence
+đặc biệt,VSL-662220762,QIPEDC:W01122B,processed,False,unknown,unknown,False,0,0,27.166666666666668,22.166666666666668,False,no_qipedc_evidence
+chúc mừng,VSL-676619869,QIPEDC:W00663N,processed,True,Miền Bắc,Miền Nam,False,6,3,14.166666666666666,22.33333333333333,False,review
+con người,VSL-663695024,QIPEDC:W00777N,processed,False,unknown,Miền Nam,False,0,0,21.166666666666668,22.33333333333333,False,no_qipedc_evidence
+con ếch,VSL-676645186,QIPEDC:W00758N,processed,True,Miền Bắc,Miền Nam,False,6,6,17.5,22.33333333333333,False,review
+buổi sáng,VSL-661112951,QIPEDC:W00368B,processed,False,unknown,Miền Bắc,False,0,0,23.5,22.5,False,no_qipedc_evidence
+bánh mì,VSL-661098996,QIPEDC:W00137B,processed,False,unknown,Miền Bắc,False,0,0,22.666666666666668,22.5,False,no_qipedc_evidence
+chiếu,VSL-663678472,QIPEDC:W00598,processed,False,unknown,unknown,False,0,0,18.666666666666668,22.5,False,no_qipedc_evidence
+chúc mừng,VSL-663684500,QIPEDC:W00663T,processed,False,unknown,Miền Trung,False,0,0,22.83333333333333,22.5,False,no_qipedc_evidence
+con ếch,VSL-676645126,QIPEDC:W00758N,processed,True,Miền Trung,Miền Nam,False,6,6,19.666666666666668,22.5,False,review
+lá cây,VSL-661565650,QIPEDC:W01912B,processed,False,unknown,Miền Bắc,False,0,0,20.166666666666668,22.5,False,no_qipedc_evidence
+lá cây,VSL-661565664,QIPEDC:W01912N,processed,False,unknown,Miền Nam,False,0,0,24.5,22.5,False,no_qipedc_evidence
+bạn,VSL-661095981,QIPEDC:W00110B,processed,False,unknown,unknown,False,0,0,20.83333333333333,22.666666666666668,False,no_qipedc_evidence
+chúc mừng,VSL-676619829,QIPEDC:W00663B,processed,True,Miền Trung,Miền Bắc,False,5,6,15.0,22.666666666666668,False,review
+chúc mừng,VSL-663684237,QIPEDC:W00663B,processed,False,unknown,Miền Bắc,False,0,0,23.33333333333333,22.666666666666668,False,no_qipedc_evidence
+con người,VSL-663694940,QIPEDC:W00777B,processed,False,unknown,unknown,False,0,0,19.166666666666668,22.666666666666668,False,no_qipedc_evidence
+con người,VSL-663694940,QIPEDC:W00777T,processed,False,unknown,Miền Trung,False,0,0,19.5,22.666666666666668,False,no_qipedc_evidence
+gạo,VSL-675592093,QIPEDC:W01384N,processed,True,Miền Bắc,Miền Nam,False,6,6,10.333333333333334,22.666666666666668,False,review
+kiểm tra,VSL-661719163,QIPEDC:W01878B,processed,False,unknown,Miền Bắc,False,0,0,19.5,22.666666666666668,False,no_qipedc_evidence
+từ chối,VSL-661657946,QIPEDC:D0103T,processed,False,unknown,Miền Trung,False,0,0,20.83333333333333,22.666666666666668,False,no_qipedc_evidence
+buổi sáng,VSL-661112973,QIPEDC:W00368B,processed,False,unknown,Miền Bắc,False,0,0,21.166666666666668,22.83333333333333,False,no_qipedc_evidence
+buổi sáng,VSL-661112973,QIPEDC:W00368N,processed,False,unknown,Miền Nam,False,0,0,18.5,22.83333333333333,False,no_qipedc_evidence
+bánh cuốn,VSL-661098666,QIPEDC:W00129T,processed,False,unknown,Miền Trung,False,0,0,21.83333333333333,22.83333333333333,False,no_qipedc_evidence
+chúc mừng,VSL-663684500,QIPEDC:W00663N,processed,False,unknown,Miền Nam,False,0,0,23.33333333333333,22.83333333333333,False,no_qipedc_evidence
+giấy,VSL-661753465,QIPEDC:W01470N,processed,False,unknown,Miền Nam,False,0,0,24.33333333333333,22.83333333333333,False,no_qipedc_evidence
+màu nâu,VSL-661689375,QIPEDC:W02137N,processed,False,unknown,Miền Nam,False,0,0,23.83333333333333,22.83333333333333,False,no_qipedc_evidence
+màu nâu,VSL-661689375,QIPEDC:W02137T,processed,False,unknown,Miền Trung,False,0,0,24.0,22.83333333333333,False,no_qipedc_evidence
+buổi sáng,VSL-661112951,QIPEDC:W00368N,processed,False,unknown,Miền Nam,False,0,0,23.5,23.0,False,no_qipedc_evidence
+buổi sáng,VSL-661112993,QIPEDC:W00368N,processed,False,unknown,Miền Nam,False,0,0,20.166666666666668,23.0,False,no_qipedc_evidence
+buổi trưa,VSL-661122135,QIPEDC:W00370T,processed,False,unknown,Miền Trung,False,0,0,20.166666666666668,23.0,False,no_qipedc_evidence
+buổi tối,VSL-661113063,QIPEDC:W00369B,processed,False,unknown,Miền Bắc,False,0,0,21.83333333333333,23.0,False,no_qipedc_evidence
+bảng đen,VSL-661098067,QIPEDC:W00121N,processed,False,unknown,Miền Nam,False,0,0,20.166666666666668,23.0,False,no_qipedc_evidence
+chiếu,VSL-676522717,QIPEDC:W00598T,processed,True,unknown,Miền Trung,False,6,0,15.333333333333334,23.0,False,review
+kiểm tra,VSL-661719228,QIPEDC:W01878T,processed,False,unknown,Miền Trung,False,0,0,26.33333333333333,23.0,False,no_qipedc_evidence
+màu nâu,VSL-661689305,QIPEDC:W02137N,processed,False,unknown,Miền Nam,False,0,0,25.166666666666668,23.0,False,no_qipedc_evidence
+tò mò,VSL-661548557,QIPEDC:W03467B,processed,False,unknown,Miền Bắc,False,0,0,24.33333333333333,23.0,False,no_qipedc_evidence
+xem,VSL-658383820,QIPEDC:D0192B,processed,False,unknown,unknown,False,0,0,22.83333333333333,23.0,False,no_qipedc_evidence
+buổi sáng,VSL-661112973,QIPEDC:W00368T,processed,False,unknown,Miền Trung,False,0,0,18.0,23.166666666666668,False,no_qipedc_evidence
+buổi tối,VSL-661113063,QIPEDC:W00369N,processed,False,unknown,Miền Nam,False,0,0,22.83333333333333,23.166666666666668,False,no_qipedc_evidence
+bánh mì,VSL-661098996,QIPEDC:W00137N,processed,False,unknown,Miền Nam,False,0,0,23.5,23.166666666666668,False,no_qipedc_evidence
+bộ đội,VSL-661110741,QIPEDC:W00328T,processed,False,unknown,Miền Trung,False,0,0,28.0,23.166666666666668,False,no_qipedc_evidence
+con ếch,VSL-676645159,QIPEDC:W00758B,processed,True,Miền Nam,Miền Bắc,False,4,6,16.666666666666668,23.166666666666668,False,review
+con ếch,VSL-663693791,QIPEDC:W00758N,processed,False,unknown,Miền Nam,False,0,0,27.166666666666668,23.166666666666668,False,no_qipedc_evidence
+từ chối,VSL-661657946,QIPEDC:D0103N,processed,False,unknown,Miền Nam,False,0,0,22.166666666666668,23.166666666666668,False,no_qipedc_evidence
+buổi trưa,VSL-661122135,QIPEDC:W00370B,processed,False,unknown,Miền Bắc,False,0,0,21.5,23.33333333333333,False,no_qipedc_evidence
+bánh mì,VSL-661098943,QIPEDC:W00137B,processed,False,unknown,Miền Bắc,False,0,0,22.666666666666668,23.33333333333333,False,no_qipedc_evidence
+bạn,VSL-674528660,QIPEDC:W00110T,processed,True,Miền Bắc,Miền Trung,False,6,6,16.5,23.33333333333333,False,review
+bạn,VSL-661095953,QIPEDC:W00110B,processed,False,unknown,unknown,False,0,0,21.33333333333333,23.33333333333333,False,no_qipedc_evidence
+bảng đen,VSL-661098067,QIPEDC:W00121B,processed,False,unknown,Miền Bắc,False,0,0,22.5,23.33333333333333,False,no_qipedc_evidence
+chiếu,VSL-676522710,QIPEDC:W00598,processed,True,Miền Bắc,unknown,False,6,5,16.333333333333332,23.33333333333333,False,review
+chiếu,VSL-676522699,QIPEDC:W00598,processed,True,Miền Trung,unknown,False,5,6,16.333333333333332,23.33333333333333,False,review
+chúc mừng,VSL-663684411,QIPEDC:W00663N,processed,False,unknown,Miền Nam,False,0,0,23.5,23.33333333333333,False,no_qipedc_evidence
+con chuột,VSL-663692310,QIPEDC:W00742B,processed,False,unknown,unknown,False,0,0,23.5,23.33333333333333,False,no_qipedc_evidence
+con chuột,VSL-663692310,QIPEDC:W00742N,processed,False,unknown,unknown,False,0,0,26.33333333333333,23.33333333333333,False,no_qipedc_evidence
+giấy,VSL-661753465,QIPEDC:W01470T,processed,False,unknown,Miền Trung,False,0,0,24.5,23.33333333333333,False,no_qipedc_evidence
+từ chối,VSL-661658010,QIPEDC:D0103T,processed,False,unknown,Miền Trung,False,0,0,24.166666666666668,23.33333333333333,False,no_qipedc_evidence
+bánh mì,VSL-661098891,QIPEDC:W00137T,processed,False,unknown,Miền Trung,False,0,0,21.0,23.5,False,no_qipedc_evidence
+chúc mừng,VSL-676619869,QIPEDC:W00663T,processed,True,Miền Bắc,Miền Trung,False,6,3,15.333333333333334,23.5,False,review
+gạo,VSL-675592093,QIPEDC:W01384T,processed,True,Miền Bắc,Miền Trung,False,6,6,10.833333333333334,23.5,False,review
+hỏi,VSL-661755458,QIPEDC:W01672T,processed,False,unknown,Miền Trung,False,0,0,26.83333333333333,23.5,False,no_qipedc_evidence
+kiểm tra,VSL-661719177,QIPEDC:W01878T,processed,False,unknown,Miền Trung,False,0,0,23.5,23.5,False,no_qipedc_evidence
+lá cây,VSL-661565639,QIPEDC:W01912B,processed,False,unknown,Miền Bắc,False,0,0,27.0,23.5,False,no_qipedc_evidence
+màu nâu,VSL-661689305,QIPEDC:W02137T,processed,False,unknown,Miền Trung,False,0,0,24.5,23.5,False,no_qipedc_evidence
+đặc biệt,VSL-662220762,QIPEDC:W01122N,processed,False,unknown,Miền Nam,False,0,0,27.0,23.5,False,no_qipedc_evidence
+bánh cuốn,VSL-661098601,QIPEDC:W00129T,processed,False,unknown,Miền Trung,False,0,0,20.83333333333333,23.666666666666668,False,no_qipedc_evidence
+bánh mì,VSL-661098996,QIPEDC:W00137T,processed,False,unknown,Miền Trung,False,0,0,23.0,23.666666666666668,False,no_qipedc_evidence
+bạn,VSL-674528579,QIPEDC:W00110B,processed,True,Miền Trung,unknown,False,6,6,16.0,23.666666666666668,False,review
+bảng đen,VSL-661098067,QIPEDC:W00121T,processed,False,unknown,Miền Trung,False,0,0,22.33333333333333,23.666666666666668,False,no_qipedc_evidence
+con chuột,VSL-663692310,QIPEDC:W00742T,processed,False,unknown,Miền Trung,False,0,0,26.666666666666668,23.666666666666668,False,no_qipedc_evidence
+giấy,VSL-661753492,QIPEDC:W01470T,processed,False,unknown,Miền Trung,False,0,0,23.0,23.666666666666668,False,no_qipedc_evidence
+gạo,VSL-675592148,QIPEDC:W01384B,processed,True,Miền Nam,Miền Bắc,False,3,5,11.0,23.666666666666668,False,review
+kiểm tra,VSL-661719228,QIPEDC:W01878N,processed,False,unknown,Miền Nam,False,0,0,26.33333333333333,23.666666666666668,False,no_qipedc_evidence
+tò mò,VSL-661548551,QIPEDC:W03467B,processed,False,unknown,Miền Bắc,False,0,0,21.666666666666668,23.666666666666668,False,no_qipedc_evidence
+xem,VSL-658383820,QIPEDC:D0192N,processed,False,unknown,Miền Nam,False,0,0,23.33333333333333,23.666666666666668,False,no_qipedc_evidence
+xem,VSL-658383859,QIPEDC:D0192N,processed,False,unknown,Miền Nam,False,0,0,21.83333333333333,23.666666666666668,False,no_qipedc_evidence
+buổi sáng,VSL-661112951,QIPEDC:W00368T,processed,False,unknown,Miền Trung,False,0,0,23.166666666666668,23.83333333333333,False,no_qipedc_evidence
+bánh cuốn,VSL-661098601,QIPEDC:W00129B,processed,False,unknown,Miền Bắc,False,0,0,22.5,23.83333333333333,False,no_qipedc_evidence
+bạn,VSL-661095953,QIPEDC:W00110T,processed,False,unknown,Miền Trung,False,0,0,23.5,23.83333333333333,False,no_qipedc_evidence
+chúc mừng,VSL-663684411,QIPEDC:W00663T,processed,False,unknown,Miền Trung,False,0,0,22.83333333333333,23.83333333333333,False,no_qipedc_evidence
+con ếch,VSL-676645159,QIPEDC:W00758T,processed,True,Miền Nam,Miền Trung,False,4,6,19.666666666666668,23.83333333333333,False,review
+giấy,VSL-661753465,QIPEDC:W01470B,processed,False,unknown,Miền Bắc,False,0,0,26.166666666666668,23.83333333333333,False,no_qipedc_evidence
+giấy,VSL-661753492,QIPEDC:W01470N,processed,False,unknown,Miền Nam,False,0,0,23.83333333333333,23.83333333333333,False,no_qipedc_evidence
+gạo,VSL-675592204,QIPEDC:W01384B,processed,True,Miền Trung,Miền Bắc,False,6,6,11.166666666666666,23.83333333333333,False,review
+tò mò,VSL-661548496,QIPEDC:W03467B,processed,False,unknown,Miền Bắc,False,0,0,25.0,23.83333333333333,False,no_qipedc_evidence
+từ chối,VSL-661658010,QIPEDC:D0103N,processed,False,unknown,Miền Nam,False,0,0,23.0,23.83333333333333,False,no_qipedc_evidence
+con ếch,VSL-705622251,QIPEDC:W00758B,processed,False,unknown,Miền Bắc,False,0,0,24.666666666666668,24.0,False,no_qipedc_evidence
+lá cây,VSL-661565664,QIPEDC:W01912B,processed,False,unknown,Miền Bắc,False,0,0,24.666666666666668,24.0,False,no_qipedc_evidence
+tò mò,VSL-661548496,QIPEDC:W03467T,processed,False,unknown,Miền Trung,False,0,0,24.33333333333333,24.0,False,no_qipedc_evidence
+xem,VSL-658383859,QIPEDC:D0192T,processed,False,unknown,Miền Trung,False,0,0,22.166666666666668,24.0,False,no_qipedc_evidence
+bạn,VSL-674528617,QIPEDC:W00110B,processed,True,Miền Nam,unknown,False,6,6,17.166666666666668,24.166666666666668,False,review
+bộ đội,VSL-661110768,QIPEDC:W00328B,processed,False,unknown,Miền Bắc,False,0,0,26.5,24.166666666666668,False,no_qipedc_evidence
+tò mò,VSL-661548551,QIPEDC:W03467T,processed,False,unknown,Miền Trung,False,0,0,21.5,24.166666666666668,False,no_qipedc_evidence
+xem,VSL-658383820,QIPEDC:D0192T,processed,False,unknown,Miền Trung,False,0,0,23.83333333333333,24.166666666666668,False,no_qipedc_evidence
+bánh mì,VSL-661098891,QIPEDC:W00137N,processed,False,unknown,Miền Nam,False,0,0,22.166666666666668,24.33333333333333,False,no_qipedc_evidence
+bạn,VSL-674528660,QIPEDC:W00110N,processed,True,Miền Bắc,Miền Nam,False,6,6,17.166666666666668,24.33333333333333,False,review
+bảng đen,VSL-661097993,QIPEDC:W00121B,processed,False,unknown,Miền Bắc,False,0,0,25.166666666666668,24.33333333333333,False,no_qipedc_evidence
+bảng đen,VSL-661097993,QIPEDC:W00121T,processed,False,unknown,Miền Trung,False,0,0,24.83333333333333,24.33333333333333,False,no_qipedc_evidence
+chia,VSL-666331314,QIPEDC:W00575T,processed,False,unknown,Miền Trung,False,0,0,24.166666666666668,24.33333333333333,False,no_qipedc_evidence
+chúc mừng,VSL-663684318,QIPEDC:W00663N,processed,False,unknown,Miền Nam,False,0,0,24.666666666666668,24.33333333333333,False,no_qipedc_evidence
+giấy,VSL-661753441,QIPEDC:W01470T,processed,False,unknown,Miền Trung,False,0,0,18.33333333333333,24.33333333333333,False,no_qipedc_evidence
+hỏi,VSL-661755458,QIPEDC:W01672N,processed,False,unknown,Miền Nam,False,0,0,26.83333333333333,24.33333333333333,False,no_qipedc_evidence
+hỏi,VSL-661755495,QIPEDC:W01672T,processed,False,unknown,Miền Trung,False,0,0,27.5,24.33333333333333,False,no_qipedc_evidence
+chúc mừng,VSL-663684318,QIPEDC:W00663T,processed,False,unknown,Miền Trung,False,0,0,24.83333333333333,24.5,False,no_qipedc_evidence
+chúc mừng,VSL-663684500,QIPEDC:W00663B,processed,False,unknown,Miền Bắc,False,0,0,24.5,24.5,False,no_qipedc_evidence
+giấy,VSL-661753441,QIPEDC:W01470N,processed,False,unknown,Miền Nam,False,0,0,19.666666666666668,24.5,False,no_qipedc_evidence
+lá cây,VSL-661565631,QIPEDC:W01912B,processed,False,unknown,Miền Bắc,False,0,0,27.166666666666668,24.5,False,no_qipedc_evidence
+lá cây,VSL-661565631,QIPEDC:W01912N,processed,False,unknown,Miền Nam,False,0,0,25.5,24.5,False,no_qipedc_evidence
+gạo,VSL-661750900,QIPEDC:W01384T,processed,False,unknown,Miền Trung,False,0,0,19.5,24.666666666666668,False,no_qipedc_evidence
+hỏi,VSL-661755561,QIPEDC:W01672B,processed,False,unknown,unknown,False,0,0,21.5,24.666666666666668,False,no_qipedc_evidence
+màu nâu,VSL-661689305,QIPEDC:W02137B,processed,False,unknown,Miền Bắc,False,0,0,23.166666666666668,24.666666666666668,False,no_qipedc_evidence
+màu nâu,VSL-661689330,QIPEDC:W02137B,processed,False,unknown,Miền Bắc,False,0,0,27.5,24.666666666666668,False,no_qipedc_evidence
+bánh mì,VSL-661098891,QIPEDC:W00137B,processed,False,unknown,Miền Bắc,False,0,0,22.33333333333333,24.83333333333333,False,no_qipedc_evidence
+bạn,VSL-661095981,QIPEDC:W00110T,processed,False,unknown,Miền Trung,False,0,0,25.33333333333333,24.83333333333333,False,no_qipedc_evidence
+bảng đen,VSL-661097921,QIPEDC:W00121B,processed,False,unknown,Miền Bắc,False,0,0,26.166666666666668,24.83333333333333,False,no_qipedc_evidence
+gạo,VSL-661750900,QIPEDC:W01384N,processed,False,unknown,Miền Nam,False,0,0,20.33333333333333,24.83333333333333,False,no_qipedc_evidence
+lá cây,VSL-661565650,QIPEDC:W01912N,processed,False,unknown,Miền Nam,False,0,0,26.83333333333333,24.83333333333333,False,no_qipedc_evidence
+con người,VSL-663694988,QIPEDC:W00777B,processed,False,unknown,unknown,False,0,0,24.5,25.0,False,no_qipedc_evidence
+con người,VSL-663694988,QIPEDC:W00777T,processed,False,unknown,Miền Trung,False,0,0,23.5,25.0,False,no_qipedc_evidence
+con người,VSL-663695024,QIPEDC:W00777B,processed,False,unknown,unknown,False,0,0,24.83333333333333,25.0,False,no_qipedc_evidence
+dầu ăn,VSL-662226961,QIPEDC:W00993,processed,False,unknown,unknown,False,0,0,27.666666666666668,25.0,False,no_qipedc_evidence
+gạo,VSL-661750879,QIPEDC:W01384T,processed,False,unknown,Miền Trung,False,0,0,21.166666666666668,25.0,False,no_qipedc_evidence
+hỏi,VSL-661755561,QIPEDC:W01672N,processed,False,unknown,Miền Nam,False,0,0,21.83333333333333,25.0,False,no_qipedc_evidence
+chúc mừng,VSL-663684237,QIPEDC:W00663T,processed,False,unknown,Miền Trung,False,0,0,25.0,25.166666666666668,False,no_qipedc_evidence
+con ếch,VSL-663693696,QIPEDC:W00758N,processed,False,unknown,Miền Nam,False,0,0,21.166666666666668,25.166666666666668,False,no_qipedc_evidence
+con ếch,VSL-663693791,QIPEDC:W00758B,processed,False,unknown,Miền Bắc,False,0,0,26.166666666666668,25.166666666666668,False,no_qipedc_evidence
+dầu ăn,VSL-662226825,QIPEDC:W00993,processed,False,unknown,unknown,False,0,0,22.166666666666668,25.166666666666668,False,no_qipedc_evidence
+giấy,VSL-661753441,QIPEDC:W01470B,processed,False,unknown,Miền Bắc,False,0,0,21.33333333333333,25.166666666666668,False,no_qipedc_evidence
+hỏi,VSL-661755534,QIPEDC:W01672B,processed,False,unknown,unknown,False,0,0,25.0,25.166666666666668,False,no_qipedc_evidence
+chuẩn bị,VSL-663684137,QIPEDC:W00662T,processed,False,unknown,Miền Trung,False,0,0,23.5,25.33333333333333,False,no_qipedc_evidence
+chúc mừng,VSL-663684237,QIPEDC:W00663N,processed,False,unknown,Miền Nam,False,0,0,24.666666666666668,25.33333333333333,False,no_qipedc_evidence
+con người,VSL-663695024,QIPEDC:W00777T,processed,False,unknown,Miền Trung,False,0,0,25.0,25.33333333333333,False,no_qipedc_evidence
+học giỏi,VSL-661754741,QIPEDC:W01656,processed,False,unknown,unknown,False,0,0,23.83333333333333,25.33333333333333,False,no_qipedc_evidence
+lá cây,VSL-661565639,QIPEDC:W01912N,processed,False,unknown,Miền Nam,False,0,0,26.33333333333333,25.33333333333333,False,no_qipedc_evidence
+bánh cuốn,VSL-661098601,QIPEDC:W00129N,processed,False,unknown,Miền Nam,False,0,0,21.83333333333333,25.5,False,no_qipedc_evidence
+hỏi,VSL-661755561,QIPEDC:W01672T,processed,False,unknown,Miền Trung,False,0,0,22.33333333333333,25.5,False,no_qipedc_evidence
+kém,VSL-661716682,QIPEDC:W01738N,processed,False,unknown,Miền Nam,False,0,0,27.666666666666668,25.5,False,no_qipedc_evidence
+bạn,VSL-661095981,QIPEDC:W00110N,processed,False,unknown,Miền Nam,False,0,0,26.0,25.666666666666668,False,no_qipedc_evidence
+bảng đen,VSL-661097921,QIPEDC:W00121T,processed,False,unknown,Miền Trung,False,0,0,25.666666666666668,25.666666666666668,False,no_qipedc_evidence
+cháu nội,VSL-666329907,QIPEDC:W00497B,processed,False,unknown,unknown,False,0,0,27.166666666666668,25.666666666666668,False,no_qipedc_evidence
+chúc mừng,VSL-663684465,QIPEDC:W00663T,processed,False,unknown,Miền Trung,False,0,0,25.83333333333333,25.666666666666668,False,no_qipedc_evidence
+con ếch,VSL-663693746,QIPEDC:W00758B,processed,False,unknown,Miền Bắc,False,0,0,25.666666666666668,25.666666666666668,False,no_qipedc_evidence
+gạo,VSL-661750879,QIPEDC:W01384N,processed,False,unknown,Miền Nam,False,0,0,20.666666666666668,25.666666666666668,False,no_qipedc_evidence
+bánh mì,VSL-661098943,QIPEDC:W00137N,processed,False,unknown,Miền Nam,False,0,0,26.0,25.83333333333333,False,no_qipedc_evidence
+bạn,VSL-661095953,QIPEDC:W00110N,processed,False,unknown,Miền Nam,False,0,0,24.666666666666668,25.83333333333333,False,no_qipedc_evidence
+chia,VSL-666331314,QIPEDC:W00575B,processed,False,unknown,unknown,False,0,0,18.166666666666668,25.83333333333333,False,no_qipedc_evidence
+hỏi,VSL-661755495,QIPEDC:W01672N,processed,False,unknown,Miền Nam,False,0,0,27.33333333333333,25.83333333333333,False,no_qipedc_evidence
+hỏi,VSL-661755534,QIPEDC:W01672T,processed,False,unknown,Miền Trung,False,0,0,23.83333333333333,25.83333333333333,False,no_qipedc_evidence
+buổi tối,VSL-661113087,QIPEDC:W00369T,processed,False,unknown,Miền Trung,False,0,0,28.5,26.0,False,no_qipedc_evidence
+bảng đen,VSL-661097921,QIPEDC:W00121N,processed,False,unknown,Miền Nam,False,0,0,21.83333333333333,26.0,False,no_qipedc_evidence
+chia,VSL-666331314,QIPEDC:W00575N,processed,False,unknown,Miền Nam,False,0,0,24.666666666666668,26.0,False,no_qipedc_evidence
+chuẩn bị,VSL-663684137,QIPEDC:W00662N,processed,False,unknown,Miền Nam,False,0,0,24.666666666666668,26.0,False,no_qipedc_evidence
+hỏi,VSL-661755495,QIPEDC:W01672B,processed,False,unknown,unknown,False,0,0,27.33333333333333,26.0,False,no_qipedc_evidence
+chúc mừng,VSL-663684411,QIPEDC:W00663B,processed,False,unknown,Miền Bắc,False,0,0,21.166666666666668,26.166666666666668,False,no_qipedc_evidence
+cháu nội,VSL-666329878,QIPEDC:W00497B,processed,False,unknown,unknown,False,0,0,27.5,26.33333333333333,False,no_qipedc_evidence
+chúc mừng,VSL-663684442,QIPEDC:W00663B,processed,False,unknown,Miền Bắc,False,0,0,30.0,26.33333333333333,False,no_qipedc_evidence
+dầu ăn,VSL-662226877,QIPEDC:W00993,processed,False,unknown,unknown,False,0,0,32.5,26.33333333333333,False,no_qipedc_evidence
+giấy,VSL-661753492,QIPEDC:W01470B,processed,False,unknown,Miền Bắc,False,0,0,25.83333333333333,26.33333333333333,False,no_qipedc_evidence
+gạo,VSL-661750900,QIPEDC:W01384B,processed,False,unknown,Miền Bắc,False,0,0,21.33333333333333,26.33333333333333,False,no_qipedc_evidence
+học giỏi,VSL-661754827,QIPEDC:W01656,processed,False,unknown,unknown,False,0,0,20.5,26.33333333333333,False,no_qipedc_evidence
+hỏi,VSL-661755534,QIPEDC:W01672N,processed,False,unknown,Miền Nam,False,0,0,23.83333333333333,26.33333333333333,False,no_qipedc_evidence
+xem,VSL-658383892,QIPEDC:D0192N,processed,False,unknown,Miền Nam,False,0,0,28.33333333333333,26.33333333333333,False,no_qipedc_evidence
+bảng đen,VSL-661097993,QIPEDC:W00121N,processed,False,unknown,Miền Nam,False,0,0,22.0,26.5,False,no_qipedc_evidence
+bánh mì,VSL-661098919,QIPEDC:W00137B,processed,False,unknown,Miền Bắc,False,0,0,29.83333333333333,26.666666666666668,False,no_qipedc_evidence
+bánh mì,VSL-661098943,QIPEDC:W00137T,processed,False,unknown,Miền Trung,False,0,0,26.166666666666668,26.666666666666668,False,no_qipedc_evidence
+chuẩn bị,VSL-663684083,QIPEDC:W00662T,processed,False,unknown,Miền Trung,False,0,0,22.83333333333333,26.666666666666668,False,no_qipedc_evidence
+cháu ngoại,VSL-666329851,QIPEDC:W00496T,processed,False,unknown,Miền Trung,False,0,0,29.83333333333333,26.666666666666668,False,no_qipedc_evidence
+kém,VSL-661716702,QIPEDC:W01738N,processed,False,unknown,Miền Nam,False,0,0,20.83333333333333,26.666666666666668,False,no_qipedc_evidence
+xem,VSL-658383906,QIPEDC:D0192N,processed,False,unknown,Miền Nam,False,0,0,20.666666666666668,26.666666666666668,False,no_qipedc_evidence
+dầu ăn,VSL-662227005,QIPEDC:W00993,processed,False,unknown,unknown,False,0,0,27.166666666666668,26.83333333333333,False,no_qipedc_evidence
+kiểm tra,VSL-661719228,QIPEDC:W01878B,processed,False,unknown,Miền Bắc,False,0,0,24.166666666666668,26.83333333333333,False,no_qipedc_evidence
+buổi tối,VSL-661113087,QIPEDC:W00369N,processed,False,unknown,Miền Nam,False,0,0,28.33333333333333,27.0,False,no_qipedc_evidence
+cháu ngoại,VSL-666329815,QIPEDC:W00496T,processed,False,unknown,Miền Trung,False,0,0,27.5,27.0,False,no_qipedc_evidence
+học giỏi,VSL-661754729,QIPEDC:W01656,processed,False,unknown,unknown,False,0,0,24.0,27.0,False,no_qipedc_evidence
+xem,VSL-658383906,QIPEDC:D0192T,processed,False,unknown,Miền Trung,False,0,0,21.33333333333333,27.0,False,no_qipedc_evidence
+chiếu,VSL-663671908,QIPEDC:W00598B,processed,False,unknown,Miền Bắc,False,0,0,29.0,27.166666666666668,False,no_qipedc_evidence
+màu nâu,VSL-661689330,QIPEDC:W02137T,processed,False,unknown,Miền Trung,False,0,0,29.166666666666668,27.166666666666668,False,no_qipedc_evidence
+từ chối,VSL-661658010,QIPEDC:D0103B,processed,False,unknown,Miền Bắc,False,0,0,26.83333333333333,27.166666666666668,False,no_qipedc_evidence
+bộ đội,VSL-661110741,QIPEDC:W00328N,processed,False,unknown,Miền Nam,False,0,0,26.0,27.33333333333333,False,no_qipedc_evidence
+chuẩn bị,VSL-663684083,QIPEDC:W00662N,processed,False,unknown,Miền Nam,False,0,0,23.33333333333333,27.33333333333333,False,no_qipedc_evidence
+cháu nội,VSL-666329907,QIPEDC:W00497N,processed,False,unknown,Miền Nam,False,0,0,26.33333333333333,27.33333333333333,False,no_qipedc_evidence
+chúc mừng,VSL-663684465,QIPEDC:W00663N,processed,False,unknown,Miền Nam,False,0,0,26.83333333333333,27.33333333333333,False,no_qipedc_evidence
+gạo,VSL-661750925,QIPEDC:W01384B,processed,False,unknown,Miền Bắc,False,0,0,23.33333333333333,27.33333333333333,False,no_qipedc_evidence
+hỏi,VSL-661755458,QIPEDC:W01672B,processed,False,unknown,unknown,False,0,0,26.666666666666668,27.33333333333333,False,no_qipedc_evidence
+kiểm tra,VSL-661719210,QIPEDC:W01878B,processed,False,unknown,Miền Bắc,False,0,0,27.83333333333333,27.33333333333333,False,no_qipedc_evidence
+màu nâu,VSL-661689330,QIPEDC:W02137N,processed,False,unknown,Miền Nam,False,0,0,31.166666666666668,27.33333333333333,False,no_qipedc_evidence
+chuẩn bị,VSL-663684167,QIPEDC:W00662N,processed,False,unknown,Miền Nam,False,0,0,29.0,27.5,False,no_qipedc_evidence
+cháu ngoại,VSL-666329815,QIPEDC:W00496N,processed,False,unknown,Miền Nam,False,0,0,24.33333333333333,27.5,False,no_qipedc_evidence
+cháu nội,VSL-666329878,QIPEDC:W00497N,processed,False,unknown,Miền Nam,False,0,0,26.83333333333333,27.5,False,no_qipedc_evidence
+con ếch,VSL-663693746,QIPEDC:W00758T,processed,False,unknown,Miền Trung,False,0,0,29.166666666666668,27.5,False,no_qipedc_evidence
+chiếu,VSL-663678472,QIPEDC:W00598B,processed,False,unknown,Miền Bắc,False,0,0,23.33333333333333,27.666666666666668,False,no_qipedc_evidence
+chúc mừng,VSL-663684383,QIPEDC:W00663B,processed,False,unknown,Miền Bắc,False,0,0,22.33333333333333,27.666666666666668,False,no_qipedc_evidence
+chiếu,VSL-663671908,QIPEDC:W00598T,processed,False,unknown,Miền Trung,False,0,0,28.33333333333333,27.83333333333333,False,no_qipedc_evidence
+cháu ngoại,VSL-666329815,QIPEDC:W00496B,processed,False,unknown,unknown,False,0,0,24.83333333333333,27.83333333333333,False,no_qipedc_evidence
+con ếch,VSL-663693696,QIPEDC:W00758B,processed,False,unknown,Miền Bắc,False,0,0,25.5,27.83333333333333,False,no_qipedc_evidence
+gạo,VSL-661750879,QIPEDC:W01384B,processed,False,unknown,Miền Bắc,False,0,0,19.5,27.83333333333333,False,no_qipedc_evidence
+xem,VSL-658383892,QIPEDC:D0192B,processed,False,unknown,unknown,False,0,0,25.5,27.83333333333333,False,no_qipedc_evidence
+bộ đội,VSL-661110768,QIPEDC:W00328N,processed,False,unknown,Miền Nam,False,0,0,25.0,28.0,False,no_qipedc_evidence
+con ếch,VSL-663693746,QIPEDC:W00758N,processed,False,unknown,Miền Nam,False,0,0,26.33333333333333,28.0,False,no_qipedc_evidence
+con ếch,VSL-663693791,QIPEDC:W00758T,processed,False,unknown,Miền Trung,False,0,0,27.166666666666668,28.0,False,no_qipedc_evidence
+học giỏi,VSL-661754808,QIPEDC:W01656,processed,False,unknown,unknown,False,0,0,27.5,28.0,False,no_qipedc_evidence
+từ chối,VSL-661658034,QIPEDC:D0103B,processed,False,unknown,Miền Bắc,False,0,0,28.0,28.0,False,no_qipedc_evidence
+cháu ngoại,VSL-666329851,QIPEDC:W00496N,processed,False,unknown,Miền Nam,False,0,0,27.0,28.166666666666668,False,no_qipedc_evidence
+xem,VSL-658383892,QIPEDC:D0192T,processed,False,unknown,Miền Trung,False,0,0,28.166666666666668,28.166666666666668,False,no_qipedc_evidence
+bánh mì,VSL-661098972,QIPEDC:W00137T,processed,False,unknown,Miền Trung,False,0,0,23.83333333333333,28.33333333333333,False,no_qipedc_evidence
+chiếu,VSL-663678472,QIPEDC:W00598T,processed,False,unknown,Miền Trung,False,0,0,22.666666666666668,28.33333333333333,False,no_qipedc_evidence
+chuẩn bị,VSL-663684167,QIPEDC:W00662T,processed,False,unknown,Miền Trung,False,0,0,29.666666666666668,28.33333333333333,False,no_qipedc_evidence
+chúc mừng,VSL-663684383,QIPEDC:W00663N,processed,False,unknown,Miền Nam,False,0,0,27.0,28.33333333333333,False,no_qipedc_evidence
+buổi tối,VSL-661113087,QIPEDC:W00369B,processed,False,unknown,Miền Bắc,False,0,0,26.83333333333333,28.5,False,no_qipedc_evidence
+chúc mừng,VSL-663684383,QIPEDC:W00663T,processed,False,unknown,Miền Trung,False,0,0,26.33333333333333,28.5,False,no_qipedc_evidence
+dầu ăn,VSL-662226922,QIPEDC:W00993,processed,False,unknown,unknown,False,0,0,25.5,28.5,False,no_qipedc_evidence
+kém,VSL-661716719,QIPEDC:W01738N,processed,False,unknown,Miền Nam,False,0,0,28.5,28.5,False,no_qipedc_evidence
+tò mò,VSL-661548538,QIPEDC:W03467T,processed,False,unknown,Miền Trung,False,0,0,30.83333333333333,28.5,False,no_qipedc_evidence
+chia,VSL-666331352,QIPEDC:W00575N,processed,False,unknown,Miền Nam,False,0,0,25.0,28.666666666666668,False,no_qipedc_evidence
+chia,VSL-666331352,QIPEDC:W00575T,processed,False,unknown,Miền Trung,False,0,0,24.33333333333333,28.666666666666668,False,no_qipedc_evidence
+buổi trưa,VSL-661122112,QIPEDC:W00370T,processed,False,unknown,Miền Trung,False,0,0,27.166666666666668,28.83333333333333,False,no_qipedc_evidence
+bánh mì,VSL-661098919,QIPEDC:W00137N,processed,False,unknown,Miền Nam,False,0,0,29.83333333333333,28.83333333333333,False,no_qipedc_evidence
+bánh mì,VSL-661098972,QIPEDC:W00137B,processed,False,unknown,Miền Bắc,False,0,0,25.5,28.83333333333333,False,no_qipedc_evidence
+bộ đội,VSL-661110768,QIPEDC:W00328T,processed,False,unknown,Miền Trung,False,0,0,29.666666666666668,28.83333333333333,False,no_qipedc_evidence
+kém,VSL-661716719,QIPEDC:W01738B,processed,False,unknown,Miền Bắc,False,0,0,26.33333333333333,28.83333333333333,False,no_qipedc_evidence
+kém,VSL-661716719,QIPEDC:W01738T,processed,False,unknown,Miền Trung,False,0,0,26.83333333333333,28.83333333333333,False,no_qipedc_evidence
+bánh mì,VSL-661098972,QIPEDC:W00137N,processed,False,unknown,Miền Nam,False,0,0,25.5,29.0,False,no_qipedc_evidence
+màu nâu,VSL-661689399,QIPEDC:W02137T,processed,False,unknown,Miền Trung,False,0,0,27.5,29.166666666666668,False,no_qipedc_evidence
+xem,VSL-658383906,QIPEDC:D0192B,processed,False,unknown,unknown,False,0,0,19.0,29.166666666666668,False,no_qipedc_evidence
+buổi trưa,VSL-661122112,QIPEDC:W00370B,processed,False,unknown,Miền Bắc,False,0,0,26.83333333333333,29.33333333333333,False,no_qipedc_evidence
+buổi trưa,VSL-661122157,QIPEDC:W00370T,processed,False,unknown,Miền Trung,False,0,0,32.0,29.33333333333333,False,no_qipedc_evidence
+con chuột,VSL-663692347,QIPEDC:W00742N,processed,False,unknown,unknown,False,0,0,30.33333333333333,29.33333333333333,False,no_qipedc_evidence
+con chuột,VSL-663692347,QIPEDC:W00742T,processed,False,unknown,Miền Trung,False,0,0,31.0,29.33333333333333,False,no_qipedc_evidence
+buổi trưa,VSL-661122157,QIPEDC:W00370B,processed,False,unknown,Miền Bắc,False,0,0,30.666666666666668,29.666666666666668,False,no_qipedc_evidence
+bánh mì,VSL-661098919,QIPEDC:W00137T,processed,False,unknown,Miền Trung,False,0,0,31.166666666666668,29.666666666666668,False,no_qipedc_evidence
+màu nâu,VSL-661689399,QIPEDC:W02137N,processed,False,unknown,Miền Nam,False,0,0,26.0,29.666666666666668,False,no_qipedc_evidence
+tò mò,VSL-661548538,QIPEDC:W03467B,processed,False,unknown,Miền Bắc,False,0,0,31.666666666666668,29.83333333333333,False,no_qipedc_evidence
+từ chối,VSL-661658034,QIPEDC:D0103T,processed,False,unknown,Miền Trung,False,0,0,26.166666666666668,29.83333333333333,False,no_qipedc_evidence
+buổi sáng,VSL-661113039,QIPEDC:W00368B,processed,False,unknown,Miền Bắc,False,0,0,28.166666666666668,30.0,False,no_qipedc_evidence
+buổi sáng,VSL-661113039,QIPEDC:W00368T,processed,False,unknown,Miền Trung,False,0,0,27.33333333333333,30.0,False,no_qipedc_evidence
+cháu ngoại,VSL-666329851,QIPEDC:W00496B,processed,False,unknown,unknown,False,0,0,26.0,30.0,False,no_qipedc_evidence
+cháu nội,VSL-666329878,QIPEDC:W00497T,processed,False,unknown,Miền Trung,False,0,0,29.33333333333333,30.0,False,no_qipedc_evidence
+cháu nội,VSL-666329907,QIPEDC:W00497T,processed,False,unknown,Miền Trung,False,0,0,28.33333333333333,30.0,False,no_qipedc_evidence
+từ chối,VSL-661658034,QIPEDC:D0103N,processed,False,unknown,Miền Nam,False,0,0,26.0,30.166666666666668,False,no_qipedc_evidence
+buổi sáng,VSL-661113039,QIPEDC:W00368N,processed,False,unknown,Miền Nam,False,0,0,28.0,30.33333333333333,False,no_qipedc_evidence
+chia,VSL-666331352,QIPEDC:W00575B,processed,False,unknown,unknown,False,0,0,24.83333333333333,30.33333333333333,False,no_qipedc_evidence
+chúc mừng,VSL-663684465,QIPEDC:W00663B,processed,False,unknown,Miền Bắc,False,0,0,32.166666666666664,30.5,False,no_qipedc_evidence
+màu nâu,VSL-661689399,QIPEDC:W02137B,processed,False,unknown,Miền Bắc,False,0,0,29.0,30.5,False,no_qipedc_evidence
+chúc mừng,VSL-663684442,QIPEDC:W00663T,processed,False,unknown,Miền Trung,False,0,0,32.0,30.666666666666668,False,no_qipedc_evidence
+buổi trưa,VSL-661122112,QIPEDC:W00370N,processed,False,unknown,Miền Nam,False,0,0,29.0,30.83333333333333,False,no_qipedc_evidence
+buổi tối,VSL-661113115,QIPEDC:W00369N,processed,False,unknown,Miền Nam,False,0,0,31.5,30.83333333333333,False,no_qipedc_evidence
+buổi tối,VSL-661113115,QIPEDC:W00369T,processed,False,unknown,Miền Trung,False,0,0,30.5,30.83333333333333,False,no_qipedc_evidence
+chúc mừng,VSL-663684442,QIPEDC:W00663N,processed,False,unknown,Miền Nam,False,0,0,31.83333333333333,30.83333333333333,False,no_qipedc_evidence
+con ếch,VSL-705622251,QIPEDC:W00758N,processed,False,unknown,Miền Nam,False,0,0,31.5,30.83333333333333,False,no_qipedc_evidence
+buổi sáng,VSL-661113020,QIPEDC:W00368B,processed,False,unknown,Miền Bắc,False,0,0,32.833333333333336,31.166666666666668,False,no_qipedc_evidence
+bánh mì,VSL-661098905,QIPEDC:W00137T,processed,False,unknown,Miền Trung,False,0,0,30.666666666666668,31.166666666666668,False,no_qipedc_evidence
+con chuột,VSL-663692347,QIPEDC:W00742B,processed,False,unknown,unknown,False,0,0,29.83333333333333,31.166666666666668,False,no_qipedc_evidence
+kiểm tra,VSL-661719210,QIPEDC:W01878N,processed,False,unknown,Miền Nam,False,0,0,31.166666666666668,31.166666666666668,False,no_qipedc_evidence
+kiểm tra,VSL-661719210,QIPEDC:W01878T,processed,False,unknown,Miền Trung,False,0,0,31.5,31.33333333333333,False,no_qipedc_evidence
+bánh mì,VSL-661098905,QIPEDC:W00137N,processed,False,unknown,Miền Nam,False,0,0,31.166666666666668,31.83333333333333,False,no_qipedc_evidence
+buổi sáng,VSL-661113020,QIPEDC:W00368T,processed,False,unknown,Miền Trung,False,0,0,35.333333333333336,32.0,False,no_qipedc_evidence
+buổi trưa,VSL-661122157,QIPEDC:W00370N,processed,False,unknown,Miền Nam,False,0,0,31.666666666666668,32.0,False,no_qipedc_evidence
+buổi tối,VSL-661113115,QIPEDC:W00369B,processed,False,unknown,Miền Bắc,False,0,0,34.0,32.5,False,no_qipedc_evidence
+bánh mì,VSL-661098905,QIPEDC:W00137B,processed,False,unknown,Miền Bắc,False,0,0,31.33333333333333,32.833333333333336,False,no_qipedc_evidence
+buổi sáng,VSL-661113020,QIPEDC:W00368N,processed,False,unknown,Miền Nam,False,0,0,35.333333333333336,33.166666666666664,False,no_qipedc_evidence
+con ếch,VSL-705622251,QIPEDC:W00758T,processed,False,unknown,Miền Trung,False,0,0,33.333333333333336,33.5,False,no_qipedc_evidence
+học giỏi,VSL-661754769,QIPEDC:W01656,processed,False,unknown,unknown,False,0,0,32.833333333333336,37.333333333333336,False,no_qipedc_evidence

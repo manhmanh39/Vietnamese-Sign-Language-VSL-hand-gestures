@@ -1,0 +1,8 @@
+﻿metric,value
+original_master_records,12172
+duplicate_pairs,69
+unique_tudien_duplicates,69
+unique_qipedc_retained,69
+records_marked_duplicate,69
+records_marked_retained_original,69
+remaining_manifest_records,12172
